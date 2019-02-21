@@ -20,7 +20,7 @@
 export default {};
 </script>
 
-<style lang="less" scope>
+<style lang="less" scoped>
 html,
 body,
 .center {
@@ -57,12 +57,12 @@ body,
     }
   }
 }
-//   ul{
-//       display: flex;
-//       flex-direction: column;
-//       li{
-//           line-height: 50px;
-//           padding-left:20px;
-//       }
-//   }
+  ul{
+      display: flex;
+      flex-direction: column;
+      li{
+          line-height: 50px;
+          padding-left:20px;
+      }
+  }
 </style>

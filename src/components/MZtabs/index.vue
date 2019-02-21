@@ -1,19 +1,32 @@
 <template>
     <div class="tab">
-        <div class="tabs">
-        <router-link to="" tag="li"><span>正在上映</span></router-link>
-        <router-link to="" tag="li"><span>即将上映</span></router-link>
-        </div>
+        <ul class="tabs">
+        <router-link to="/login" tag="li"><span>正在上映</span></router-link>
+        <router-link to="/login" tag="li"><span>即将上映</span></router-link>
+        </ul>
 
     </div>
 </template>
 
 <script>
 export default {
-
+/* eslint-disable */
 }
 </script>
 
-<style>
-
+<style lang="less">
+  .tab{
+      .tabs{
+          display: flex;
+          li{
+              flex: 1;
+              text-align: center;
+              line-height: 49px;
+              &.router-link-active{
+              color:red
+                 }
+          }
+          
+      }
+  }
 </style>

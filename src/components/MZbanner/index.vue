@@ -4,7 +4,7 @@
         <!-- <div class="swiper-slide">Slide 1</div>
         <div class="swiper-slide">Slide 2</div> -->
         <div class="swiper-slide" v-for="item in imglist" :key="item._id">
-            <img :src="item.imgUrl" alt="">
+            <a><img :src="item.imgUrl" alt=""></a>
         </div>
     </div>
     <!-- 如果需要分页器 -->

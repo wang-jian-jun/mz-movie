@@ -1,7 +1,12 @@
 <template>
     <div class="Footer">
         <ul>
-            <li><router-link to="/films"><i class="iconfont icon-dianying"></i><p>电影</p></router-link></li>
+            <li>
+                <router-link to="/films" class="films" >
+                    <i class="iconfont icon-dianying" ></i>
+                    <p>电影</p>
+                </router-link>
+            </li>
             <li><router-link to="/cinemas"><i class="iconfont icon-yingyuan"></i><p>影院</p></router-link></li>
             <li><router-link to="/pingtuan"><i class="iconfont icon-order-copy"></i><p>9.9平团</p></router-link></li>
             <li><router-link to="/center"><i class="iconfont icon-wode"></i><p>我的</p></router-link></li>
@@ -32,19 +37,23 @@ export default {
                 flex: 1;
                 margin-top:10px;
                 text-align: center;
-                
+               
                 a{
                     display: flex;
                     flex-direction: column;
                     text-decoration: none;
-                    font-size: 15px;  color: red;
+                    font-size: 15px; 
                     line-height: 15px;
                     color:black;
-                    }
-                    p{
+                     p{
                         line-height: 20px;
                     }
-                 }
+                    &.router-link-active {
+                        color: red !important
+                    }
+                }
+                   
+            }
         }
 
     }

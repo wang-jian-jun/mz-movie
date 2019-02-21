@@ -1,8 +1,8 @@
 <template>
-    <div>
+    <div class="films">
         <banner></banner>
         <tabs></tabs>
-        <button @click='gocity'>去城市选择页面</button>
+        <button @click='gocity' class="city">城市</button>
         <ul>
           <li>aa</li>
           <router-link tag="li" to="/detail/df">流浪地球</router-link>
@@ -42,6 +42,16 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="less" sclopd>
+.films{
+  position: relative;
+  .city{
+    position: absolute;
+    top: 22px;
+    left: 10px;
+    z-index: 2;
+    opacity: 0.8;
+    border-radius: 10px;
+  }
+}
 </style>
