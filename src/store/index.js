@@ -13,7 +13,7 @@ let store = new Vuex.Store({
     cityData: []
   },
   getters: {
-    // fiterData是对state里面的数据进行二次处理
+    // fiterData是对state里面的数据进行二次处理,整理出拼音等内容
     fiterData (state) {
       let hash = {};
         let i = 0;

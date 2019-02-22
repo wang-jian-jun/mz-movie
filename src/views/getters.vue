@@ -37,7 +37,6 @@
 <script>
 /* eslint-disable */
 import axios from "axios";
-import {mapState,mapGetters} from 'vuex'
 export default {
   data() {
     return {
@@ -78,55 +77,44 @@ export default {
       });
     }
   },
-  // vuex 辅助函数返回的是一个对象，如果要从两个辅助函数里面获取内容，则需要使用对象结构
-  computed: {
-    ...mapState([
-      'curCityName',
-      'cityData'
-    ]),
-    ...mapGetters([
-      'fiterData'
-    ])
-  },
   //对数据进行二次处理，这里体现出了computed与methods的区别
-  //使用this.$store.state.xxx获取仓库里面的数据
-//   computed: {
-//     // 在从库中拿数据使用 ,具体城市名的数据
-//     curCityName () {
-//       return this.$store.state.curCityName;
-//     },
-//     fiterData () {
-//         return this.$store.getters.fiterData
-//     },
-//     // 对城市数组的二次改变，可以放到vuex里面的gertes里面
-//     // fiterData() {
-//     //   let hash = {};
-//     //   let i = 0;
-//     //   let res = [];
-//     //   this.$store.state.cityData.forEach(item => {
-//     //     //获得当前城市的 首字母
-//     //     let firstLetter = item.pinyin.substr(0, 1).toUpperCase();
-//     //     //  console.log(fist)
-//     //     //判断当前字母是否第一次出现
-//     //     if (hash[firstLetter]) {    //只用来判断字母的存在，并存储数据
-//     //       //存在字母
-//     //       let index = hash[firstLetter] -1;  //将下标变为0
-//     //       res[index].list.push(item)
-//     //     } else {
-//     //       //不存在
-//     //       hash[firstLetter] = ++i;
-//     //       let obj = {};
-//     //       obj.py = firstLetter;  //存放拼音
-//     //       obj.list = [item];  //存放城市
-//     //       res.push(obj)
-//     //     }
-//     //   });
-//     //   let temp = res.sort((a,b)=>{
-//     //       return a.py.charCodeAt() - b.py.charCodeAt();
-//     //   })
-//     //   return temp;
-//     // }
-//   },
+  computed: {
+    // 在从库中拿数据使用 ,具体城市名的数据
+    curCityName () {
+      return this.$store.state.curCityName;
+    },
+    fiterData () {
+        return this.$store.getters.fiterData
+    },
+    // 对城市数组的二次改变，可以放到vuex里面的gertes里面
+    // fiterData() {
+    //   let hash = {};
+    //   let i = 0;
+    //   let res = [];
+    //   this.$store.state.cityData.forEach(item => {
+    //     //获得当前城市的 首字母
+    //     let firstLetter = item.pinyin.substr(0, 1).toUpperCase();
+    //     //  console.log(fist)
+    //     //判断当前字母是否第一次出现
+    //     if (hash[firstLetter]) {    //只用来判断字母的存在，并存储数据
+    //       //存在字母
+    //       let index = hash[firstLetter] -1;  //将下标变为0
+    //       res[index].list.push(item)
+    //     } else {
+    //       //不存在
+    //       hash[firstLetter] = ++i;
+    //       let obj = {};
+    //       obj.py = firstLetter;  //存放拼音
+    //       obj.list = [item];  //存放城市
+    //       res.push(obj)
+    //     }
+    //   });
+    //   let temp = res.sort((a,b)=>{
+    //       return a.py.charCodeAt() - b.py.charCodeAt();
+    //   })
+    //   return temp;
+    // }
+  },
   created() {
     this.getcity();
   }
