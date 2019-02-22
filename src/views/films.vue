@@ -2,7 +2,8 @@
     <div class="films">
         <banner></banner>
         <tabs></tabs>
-        <button @click='gocity' class="city">城市</button>
+        <button @click='gocity' class="city">{{ citychange }}</button>
+        <router-view></router-view>
         <ul>
           <li>aa</li>
           <router-link tag="li" to="/detail/df">流浪地球</router-link>
@@ -18,6 +19,11 @@ import tabs from '../components/MZtabs/index.vue';
 import Footer from '../components/MZfooter/index.vue';
 export default {
   /* eslint-disable */
+  computed:{
+    citychange () {
+      return this.$store.state.curCityName;
+    }
+  },
   components: {
     banner,
     tabs,

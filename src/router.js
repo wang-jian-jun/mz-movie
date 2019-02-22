@@ -10,6 +10,8 @@ import login from './views/login.vue'
 import card from './views/card.vue'
 import shezhi from './views/shezhi.vue'
 import money from './views/money.vue'
+import zhengzai from './views/zhengzai.vue'
+import jijiang from './views/jijiang.vue'
 // 引入进度条
 import nprogress from 'nprogress'
 import 'nprogress/nprogress.css'
@@ -24,7 +26,21 @@ var router = new VueRouter({
       children: [
         {
           path: 'films',
-          component: Films
+          component: Films,
+          children: [
+            {
+              path: 'jijiang',
+              component: jijiang
+            },
+            {
+              path: 'zhengzai',
+              component: zhengzai
+            },
+            {
+              path: '',
+              redirect: '/films/jijiang'
+            }
+          ]
         },
         {
           path: 'cinemas',

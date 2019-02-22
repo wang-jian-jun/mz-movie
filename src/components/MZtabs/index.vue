@@ -1,8 +1,8 @@
 <template>
     <div class="tab">
         <ul class="tabs">
-        <router-link to="/login" tag="li"><span>正在上映</span></router-link>
-        <router-link to="/login" tag="li"><span>即将上映</span></router-link>
+        <router-link to="/films/zhengzai" tag="li"><span>正在上映</span></router-link>
+        <router-link to="/films/jijiang" tag="li"><span>即将上映</span></router-link>
         </ul>
 
     </div>
