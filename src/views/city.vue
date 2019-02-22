@@ -83,33 +83,37 @@ export default {
     curCityName () {
       return this.$store.state.curCityName;
     },
-    fiterData() {
-      let hash = {};
-      let i = 0;
-      let res = [];
-      this.$store.state.cityData.forEach(item => {
-        //获得当前城市的 首字母
-        let firstLetter = item.pinyin.substr(0, 1).toUpperCase();
-        //  console.log(fist)
-        //判断当前字母是否第一次出现
-        if (hash[firstLetter]) {    //只用来判断字母的存在，并存储数据
-          //存在字母
-          let index = hash[firstLetter] -1;  //将下标变为0
-          res[index].list.push(item)
-        } else {
-          //不存在
-          hash[firstLetter] = ++i;
-          let obj = {};
-          obj.py = firstLetter;  //存放拼音
-          obj.list = [item];  //存放城市
-          res.push(obj)
-        }
-      });
-      let temp = res.sort((a,b)=>{
-          return a.py.charCodeAt() - b.py.charCodeAt();
-      })
-      return temp;
-    }
+    fiterData () {
+        return this.$store.getters.fiterData
+    },
+    // 对城市数组的二次改变，可以放到vuex里面的gertes里面
+    // fiterData() {
+    //   let hash = {};
+    //   let i = 0;
+    //   let res = [];
+    //   this.$store.state.cityData.forEach(item => {
+    //     //获得当前城市的 首字母
+    //     let firstLetter = item.pinyin.substr(0, 1).toUpperCase();
+    //     //  console.log(fist)
+    //     //判断当前字母是否第一次出现
+    //     if (hash[firstLetter]) {    //只用来判断字母的存在，并存储数据
+    //       //存在字母
+    //       let index = hash[firstLetter] -1;  //将下标变为0
+    //       res[index].list.push(item)
+    //     } else {
+    //       //不存在
+    //       hash[firstLetter] = ++i;
+    //       let obj = {};
+    //       obj.py = firstLetter;  //存放拼音
+    //       obj.list = [item];  //存放城市
+    //       res.push(obj)
+    //     }
+    //   });
+    //   let temp = res.sort((a,b)=>{
+    //       return a.py.charCodeAt() - b.py.charCodeAt();
+    //   })
+    //   return temp;
+    // }
   },
   created() {
     this.getcity();
