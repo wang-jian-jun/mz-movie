@@ -1,0 +1,51 @@
+.zhengzai {
+  .mint-item {
+    padding: 15px;
+    height: 94px;
+    position: relative;
+    display: flex;
+    li:nth-child(1){
+      flex:1;
+      img {
+        height: 94px;
+        width: 66px;
+      }
+    }
+    li:nth-child(2){
+      flex:4;
+      ul{
+        padding:3px 0 0 5px;
+        li{
+          font-size: 13px;
+          margin-top: 4px;
+          color: #797d82;
+          line-height: 15px;
+        }
+        li:nth-child(1){
+          font-size: 15px;
+          font-weight: 900;
+          color:black;
+        }
+        li:nth-child(3){
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          display: inline-block;
+        }
+      }
+      
+    }
+    li:nth-child(3){
+      flex:1;
+      display: flex;
+      justify-items: center;
+      align-items: center;
+      span{
+        padding:5px;
+        border: 1px solid #ff5f16;
+        border-radius: 5px;
+      }
+      
+    }
+  }
+}

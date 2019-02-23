@@ -29,7 +29,7 @@ export default {
       .then((res)=>{
           var name = res.data.data;
           _this.imglist = name;
-          console.log(_this.imglist)
+        //   console.log(_this.imglist)
         //   console.log(res.data.data)
         //数据更新后，对轮播图进行更新
         // this.$nextTick(()=>{

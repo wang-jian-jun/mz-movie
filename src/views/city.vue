@@ -7,8 +7,12 @@
         </div>
         <div class="content">
             <div class="GPS">
-                <p>GPS定位你所在城市</p>
-                <span>定位失败</span>
+                <p>GPS定位你所在城市----{{ maName }}</p>
+                <p>c模块 --- {{ mcName }}</p>
+                <span style="display:block">定位失败--{{ mbName }}</span>
+                <!-- <button @click="$store.commit('ma/chgName',{ name: '张三' })">修改a中的name</button> -->
+                <button @click="chgName({name:'张三'})">修改a中的name</button>
+                <button @click="$store.commit('updateName')">修改c中的name</button>
             </div>
         </div>
         <div class="neirong">
@@ -37,18 +41,32 @@
 <script>
 /* eslint-disable */
 import axios from "axios";
-import {mapState,mapGetters} from 'vuex'
+// mapState mapGetters 用在computed中
+// mapMutations mapActions 用在methods
+import {mapState,mapGetters, mapMutations,mapActions} from 'vuex'
 export default {
   data() {
     return {
-      //存储城市数据列表
-    //   cityData: [],
-    //   curCityName:'深圳'
+    // 存储城市数据列表
+    // cityData: [],
+    // curCityName:'深圳'
     };
   },
   methods: {
+    // 模块的引入
+    ...mapMutations('ma',[
+      'chgName'
+    ]),
+    ...mapMutations([
+      'chgCityName',
+      'chgcityData'
+    ]),
+    ...mapActions([
+      'getcity'
+    ]),
     cityChange(item){
-        this.$store.commit('chgCityName',item) //这个item相当于一个实参
+        // this.$store.commit('chgCityName',item) //这个item相当于一个实参
+        this.chgCityName(item)
     },
       //点击字母获取高度
     heightBtn(item){
@@ -64,19 +82,20 @@ export default {
         city.dom.scrpllTop = height
         
     },
-    getcity() {
-      axios.get("./json/city.json").then(res => {
-        if (res.data.status == 0) {
-          console.log("接收到数据");
-          // 接收城市数组列表
-          // this.cityData = res.data.data.cities;
-          this.$store.commit('chgcityData',res.data.data.cities)
-        } else {
-          console.log("查询失败");
-        }
-        // console.log(res)
-      });
-    }
+    // getcity() {
+      // axios.get("./json/city.json").then(res => {
+      //   if (res.data.status == 0) {
+      //     console.log("接收到数据");
+      //     // 接收城市数组列表
+      //     // this.cityData = res.data.data.cities;
+      //     //   this.$store.commit('chgcityData',res.data.data.cities)
+      //     this.chgcityData(res.data.data.cities)
+      //   } else {
+      //     console.log("查询失败");
+      //   }
+      //   // console.log(res)
+      // });
+    // }
   },
   // vuex 辅助函数返回的是一个对象，如果要从两个辅助函数里面获取内容，则需要使用对象结构
   computed: {
@@ -86,7 +105,20 @@ export default {
     ]),
     ...mapGetters([
       'fiterData'
-    ])
+    ]),
+    // 模块的引入方式
+    ...mapState('ma',{
+      'maName': (state) => state.name
+    }),
+    ...mapState('mb',{
+      'mbName': (state) => state.name
+    }),
+    mcName () {
+      return this.$store.state.mc.name;
+    }
+    // maname () {
+    //   return this.$store.state.ma.name;
+    // }
   },
   //对数据进行二次处理，这里体现出了computed与methods的区别
   //使用this.$store.state.xxx获取仓库里面的数据
@@ -128,7 +160,9 @@ export default {
 //     // }
 //   },
   created() {
-    this.getcity();
+    // this.getcity();
+    // this.$store.dispatch('getcity')
+    this.getcity()
   }
 };
 </script>

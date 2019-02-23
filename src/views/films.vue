@@ -4,11 +4,11 @@
         <tabs></tabs>
         <button @click='gocity' class="city">{{ citychange }}</button>
         <router-view></router-view>
-        <ul>
+        <!-- <ul>
           <li>aa</li>
           <router-link tag="li" to="/detail/df">流浪地球</router-link>
           <router-link tag="li" to="/detail/wjj">哈哈</router-link>
-        </ul>
+        </ul> -->
         <!-- <Footer></Footer> -->
     </div>
 </template>
