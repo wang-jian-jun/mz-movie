@@ -23,28 +23,33 @@ import axios from 'axios'
 export default {
   data () {
     return {
-      movelist: []
+      // movelist: []
+      
     }
   },
   computed: {
-
-  },
-  methods: {
-    getDate () {
-      axios.get('./json/move.json')
-        .then(res => {
-          let data = res.data;
-          if (data.status === 0) {
-            this.movelist = res.data.data.films;
-            console.log(res.data.data.films)
-          } else {
-            console.log('数据接收失败')
-          }
-        })
+    movelist () {
+      return this.$store.state.movelist;
     }
   },
+  methods: {
+    // getDate () {
+    //   axios.get('./json/move.json')
+    //     .then(res => {
+    //       let data = res.data;
+    //       if (data.status === 0) {
+    //         // this.movelist = res.data.data.films;
+    //         this.$store.commit('chgmovelist',res.data.data.films)
+    //         console.log(res.data.data.films)
+    //       } else {
+    //         console.log('数据接收失败')
+    //       }
+    //     })
+    // }
+  },
   created () {
-    this.getDate()
+    // this.getDate()
+    this.$store.dispatch('getData')
   }
 }
 </script>

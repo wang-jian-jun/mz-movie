@@ -1,0 +1,71 @@
+.cinemas{
+  .head{
+    display: flex;
+    text-align: center;
+    font-size: 17px;
+    line-height: 44px;
+    li:nth-child(1){
+      flex: 1;
+    }
+    li:nth-child(2){
+      flex: 5;
+    }
+    li:nth-child(3){
+      flex: 1;
+    }
+  }
+  .tab{
+    display: flex;
+    li{
+      flex: 1;
+      line-height: 49px;
+      font-size: 14px;
+      color: #191a1b;
+      letter-spacing: -.2px;
+      text-align: center;
+    }
+  }
+  .foot{
+    height: 520px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: auto;
+    li{
+      border-bottom: 1px solid #f9f6f6;
+      padding: 10px 0;
+      padding-left:10px;
+      width: 100%;
+      display: flex;
+      div:nth-child(1){
+        flex: 4;
+        p:nth-child(1){
+          color: #191a1b;
+          font-size: 15px;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        p:nth-child(2){
+          color: #797d82;
+          font-size: 12px;
+          margin-top: 5px;
+          line-height: 20px;
+        }
+      }
+      div:nth-child(2){
+        text-align: center;
+        flex: 1;
+        p:nth-child(1){
+          font-size: 15px;
+          color: #ff5f16;
+          margin-top: 5px;
+        }
+        p:nth-child(2){
+          font-size: 11px;
+          color: #797d82;
+          margin-top: 5px;
+        }
+      }
+    }
+  }
+}

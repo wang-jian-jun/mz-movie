@@ -38,7 +38,7 @@ var router = new VueRouter({
             },
             {
               path: '',
-              redirect: '/films/jijiang'
+              redirect: '/films/zhengzai'
             }
           ]
         },

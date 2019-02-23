@@ -1,0 +1,6352 @@
+{
+  "status": 0,
+  "data": {
+    "cinemas": [
+      {
+        "cinemaId": 815,
+        "name": "新光影艺苑",
+        "address": "黄浦区宁波路586号",
+        "longitude": 121.48309967765992,
+        "latitude": 31.242651991226708,
+        "gpsAddress": "121.48309967765992:31.242651991226708",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63511055",
+        "telephones": [
+          "021-63511055"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/815/988823469f5eb499bf69aae52be8a3aa.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 0.6547779111986435
+      },
+      {
+        "cinemaId": 4071,
+        "name": "上海浙江电影院",
+        "address": "上海市浙江中路123号（近福州路）",
+        "longitude": 121.48648577290687,
+        "latitude": 31.23781392415504,
+        "gpsAddress": "121.48648577290687:31.23781392415504",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63524732-81",
+        "telephones": [
+          "021-63524732-81"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4071/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 0.678303683800796
+      },
+      {
+        "cinemaId": 4075,
+        "name": "上海黄浦剧场",
+        "address": "上海市北京东路780号（近贵州路）",
+        "longitude": 121.48211565583819,
+        "latitude": 31.244272435032602,
+        "gpsAddress": "121.48211565583819:31.244272435032602",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63508739",
+        "telephones": [
+          "021-63508739"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4075/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 0.7038112332612673
+      },
+      {
+        "cinemaId": 4091,
+        "name": "SFC上影影城（百联大上海店）",
+        "address": "上海市黄浦区西藏中路500号第一百货8楼 （凤阳路口KFC旁边门口进入，电梯8楼直达）",
+        "longitude": 121.48160325698545,
+        "latitude": 31.24086925590614,
+        "gpsAddress": "121.48160325698545:31.24086925590614",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63308516",
+        "telephones": [
+          "021-63308516"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4091/d279d9c014082fdcd4baf095881597b2.tmp",
+        "businessTime": "09:00-24:00",
+        "notice": "3号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 3700,
+        "Distance": 0.8506973100743613
+      },
+      {
+        "cinemaId": 1000,
+        "name": "SFC上影影城（新世界店）",
+        "address": "上海市黄浦区南京西路2-68号新世界12楼",
+        "longitude": 121.4806990208625,
+        "latitude": 31.240685943263134,
+        "gpsAddress": "121.4806990208625:31.240685943263134",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63594933",
+        "telephones": [
+          "021-63594933"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1000/656F390AE603C82B286B6EEEEFF5E76A.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "22点后场次请观众从凤阳路29号新世界商务楼电梯直达12楼影院                                                                    5号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 0.9409061676650865
+      },
+      {
+        "cinemaId": 858,
+        "name": "兰生典尚影院",
+        "address": "黄浦区淮海中路8号（柳林路1号）兰生大厦5楼",
+        "longitude": 121.48626446905635,
+        "latitude": 31.231657487783565,
+        "gpsAddress": "121.48626446905635:31.231657487783565",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63190618",
+        "telephones": [
+          "021-63190618"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/858/9bcda9951705ce3342a32669dd9dd019.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 1.0338925424792982
+      },
+      {
+        "cinemaId": 971,
+        "name": "大悦城新恒星影城",
+        "address": "上海市闸北区西藏北路166号大悦城10-11楼",
+        "longitude": 121.47855818635757,
+        "latitude": 31.248635106624604,
+        "gpsAddress": "121.47855818635757:31.248635106624604",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-36527206",
+        "telephones": [
+          "021-36527206"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/971/964127ce933e0c775fae40f675abfb09.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 1.0403192537545831
+      },
+      {
+        "cinemaId": 4079,
+        "name": "上海新恒星影城",
+        "address": "上海市闸北区西藏北路166号大悦城10-11楼",
+        "longitude": 121.47855818635757,
+        "latitude": 31.248635106624604,
+        "gpsAddress": "121.47855818635757:31.248635106624604",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-36527206/021-36527050",
+        "telephones": [
+          "021-36527206/021-36527050"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4079/8d5f8ac1d77329e1b2f5934075453575.tmp",
+        "businessTime": "10:00-23:59",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 1.0403192537545831
+      },
+      {
+        "cinemaId": 248,
+        "name": "万裕国际影城淮海店",
+        "address": "上海市淮海中路99号大上海时代广场六楼",
+        "longitude": 121.48548789472264,
+        "latitude": 31.230748434480777,
+        "gpsAddress": "121.48548789472264:31.230748434480777",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63910363/021-63910755",
+        "telephones": [
+          "021-63910363/021-63910755"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/248/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00–22:00",
+        "notice": "儿童学生需购票入场",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 1.1037344659714545
+      },
+      {
+        "cinemaId": 828,
+        "name": "上海大光明电影院",
+        "address": "南京西路216号（黄河路南京西路）",
+        "longitude": 121.47782550412937,
+        "latitude": 31.238980001074523,
+        "gpsAddress": "121.47782550412937:31.238980001074523",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63274260",
+        "telephones": [
+          "021-63274260"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/828/e808d5b2a2b31ce817deac7538565654.tmp",
+        "businessTime": "9:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 1.2680610210462424
+      },
+      {
+        "cinemaId": 4140,
+        "name": "UME上海UME国际影城(新天地店)",
+        "address": "上海市兴业路123弄新天地南里6号5楼（新天地广场内）",
+        "longitude": 121.481534,
+        "latitude": 31.22507,
+        "gpsAddress": "121.481534:31.22507",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63733333",
+        "telephones": [
+          "021-63733333"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4140/422b4346d06e065772ee6552382e08ef.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6450,
+        "Distance": 1.5697086321898983
+      },
+      {
+        "cinemaId": 754,
+        "name": "金逸影城龙之梦店 ",
+        "address": "上海虹口区西江湾路388号凯德龙之梦B座6-7楼",
+        "longitude": 121.48518068950942,
+        "latitude": 31.276617733436904,
+        "gpsAddress": "121.48518068950942:31.276617733436904",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310109,
+        "districtName": "虹口区",
+        "district": {
+          "districtId": 310109,
+          "name": "虹口区"
+        },
+        "phone": "021-36538850",
+        "telephones": [
+          "021-36538850"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4/e2d4c899d9026847626cfcc0dafd9d7e.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 1.6247846374452255
+      },
+      {
+        "cinemaId": 7728,
+        "name": "CGV影城(白玉兰广场IMAX店)",
+        "address": "上海市虹口区东长治路588号上海白玉兰广场商业裙房3层11号铺位",
+        "longitude": 121.50563,
+        "latitude": 31.255198,
+        "gpsAddress": "121.50563:31.255198",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310109,
+        "districtName": "虹口区",
+        "district": {
+          "districtId": 310109,
+          "name": "虹口区"
+        },
+        "phone": "021-61077172",
+        "telephones": [
+          "021-61077172"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7728/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5500,
+        "Distance": 2.0047299646128427
+      },
+      {
+        "cinemaId": 128,
+        "name": "星美影商城（上海正大IMAX店）",
+        "address": "上海市浦东新区陆家嘴西路168号正大广场8F04室",
+        "longitude": 121.50588177886804,
+        "latitude": 31.24249029930729,
+        "gpsAddress": "121.50588177886804:31.24249029930729",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50478026",
+        "telephones": [
+          "021-50478026"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/128/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5500,
+        "Distance": 2.0390362089466545
+      },
+      {
+        "cinemaId": 613,
+        "name": "上海科技影城",
+        "address": "上海市黄浦区南昌路59号3楼",
+        "longitude": 121.47319959905825,
+        "latitude": 31.224116551917884,
+        "gpsAddress": "121.47319959905825:31.224116551917884",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-53822040",
+        "telephones": [
+          "021-53822040"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/613/752c9712481a1e8b45227b42c42e6625.jpg",
+        "businessTime": "9:30-21:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 2.190313609111078
+      },
+      {
+        "cinemaId": 7753,
+        "name": "英皇UA电影城(上海瑞虹天地店)",
+        "address": "上海虹口区瑞虹路188号月亮湾L2层",
+        "longitude": 121.505404,
+        "latitude": 31.269113,
+        "gpsAddress": "121.505404:31.269113",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310109,
+        "districtName": "虹口区",
+        "district": {
+          "districtId": 310109,
+          "name": "虹口区"
+        },
+        "phone": "021-65550065",
+        "telephones": [
+          "021-65550065"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7753/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 2.267908659465298
+      },
+      {
+        "cinemaId": 998,
+        "name": "曲阳影都",
+        "address": "上海市虹口区曲阳路570号",
+        "longitude": 121.49743637219227,
+        "latitude": 31.286021896919895,
+        "gpsAddress": "121.49743637219227:31.286021896919895",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310109,
+        "districtName": "虹口区",
+        "district": {
+          "districtId": 310109,
+          "name": "虹口区"
+        },
+        "phone": "021-65527029/021-65531817",
+        "telephones": [
+          "021-65527029/021-65531817"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/998/73e0452f8be6cf7612e6761749466811.jpg",
+        "businessTime": "8:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 2.3920006352944676
+      },
+      {
+        "cinemaId": 994,
+        "name": "国泰电影院",
+        "address": "上海黄浦区淮海中路870号（茂名南路口）",
+        "longitude": 121.4678648240414,
+        "latitude": 31.224092645753487,
+        "gpsAddress": "121.4678648240414:31.224092645753487",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-54042095",
+        "telephones": [
+          "021-54042095"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/994/83AB50BDF7119F984D33A3A70064E2B6.jpg",
+        "businessTime": "9:00-21:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 2.66410484831134
+      },
+      {
+        "cinemaId": 7733,
+        "name": "上海UA电影城(梅龙镇广场店)",
+        "address": "上海市静安区南京西路1038号梅龙镇广场10楼（近江宁路）",
+        "longitude": 121.46328210500765,
+        "latitude": 31.23525980811317,
+        "gpsAddress": "121.46328210500765:31.23525980811317",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-85111168",
+        "telephones": [
+          "021-85111168"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7733/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5600,
+        "Distance": 2.857039753750035
+      },
+      {
+        "cinemaId": 992,
+        "name": "上海四平电影院",
+        "address": "上海市杨浦区四平路901号",
+        "longitude": 121.50784043072741,
+        "latitude": 31.281043587516226,
+        "gpsAddress": "121.50784043072741:31.281043587516226",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65543245/021-65532093",
+        "telephones": [
+          "021-65543245/021-65532093"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/992/90a90766fb568e82d407ba735202a014.tmp",
+        "businessTime": "周一至周五12:30周六周日10:30（节假日除外）",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 2.892388842188818
+      },
+      {
+        "cinemaId": 8661,
+        "name": "红星电影世界上海越界世博店",
+        "address": "上海市黄浦区半淞园路376号越界世博园B4-1幢3楼",
+        "longitude": 121.503159,
+        "latitude": 31.207866,
+        "gpsAddress": "121.503159:31.207866",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-31078633",
+        "telephones": [
+          "021-31078633"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8661/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5100,
+        "Distance": 2.941656071738566
+      },
+      {
+        "cinemaId": 7725,
+        "name": "上海美琪大戏院",
+        "address": "静安区江宁路66号",
+        "longitude": 121.462364,
+        "latitude": 31.235639,
+        "gpsAddress": "121.462364:31.235639",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-62173311",
+        "telephones": [
+          "021-62173311"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7725/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 2.949258541531238
+      },
+      {
+        "cinemaId": 6623,
+        "name": "SFC上影影城（虹口百联店）",
+        "address": "上海市虹口区车站南路330号世纪联华3F",
+        "longitude": 121.48126549950354,
+        "latitude": 31.300909111179166,
+        "gpsAddress": "121.48126549950354:31.300909111179166",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310109,
+        "districtName": "虹口区",
+        "district": {
+          "districtId": 310109,
+          "name": "虹口区"
+        },
+        "phone": "021-65100571",
+        "telephones": [
+          "021-65100571"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6623/c5b61608a4b4321e3bd042cac0036362.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 3.097839921829719
+      },
+      {
+        "cinemaId": 968,
+        "name": "上海大光明影城儿艺店",
+        "address": "黄浦区苗江路800号（原世博会通用汽车馆）",
+        "longitude": 121.50127741067152,
+        "latitude": 31.201944176633123,
+        "gpsAddress": "121.50127741067152:31.201944176633123",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310101,
+        "districtName": "黄浦区",
+        "district": {
+          "districtId": 310101,
+          "name": "黄浦区"
+        },
+        "phone": "021-63463379 ",
+        "telephones": [
+          "021-63463379 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/968/b72db4094f7652ed0edc4791a12eedef.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 3.123784513172762
+      },
+      {
+        "cinemaId": 752,
+        "name": "金逸影城海上海店",
+        "address": "上海杨浦区飞虹路568弄海上海，弘基休闲广场A区48号",
+        "longitude": 121.514305,
+        "latitude": 31.271025,
+        "gpsAddress": "121.514305:31.271025",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-33772488",
+        "telephones": [
+          "021-33772488"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/752/d14cfdb306f24a0b6313783064c57045.jpg",
+        "businessTime": "9:30-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2500,
+        "Distance": 3.2027462317357047
+      },
+      {
+        "cinemaId": 7744,
+        "name": "上海晟嘉国际影城(尚悦湾广场店)",
+        "address": "上海市浦东新区银城路66号4层",
+        "longitude": 121.517123,
+        "latitude": 31.247369,
+        "gpsAddress": "121.517123:31.247369",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50860006",
+        "telephones": [
+          "021-50860006"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7744/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4200,
+        "Distance": 3.2548176292158533
+      },
+      {
+        "cinemaId": 1916,
+        "name": "保利国际影城上海世博店",
+        "address": "上海市浦东新区世博大道1368号世博源二区G层",
+        "longitude": 121.49902336451977,
+        "latitude": 31.191640163432147,
+        "gpsAddress": "121.49902336451977:31.191640163432147",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-31118288",
+        "telephones": [
+          "021-31118288"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1916/6f7ceb05dc004a2dc145a114c36bf25c.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 3.5669216490168623
+      },
+      {
+        "cinemaId": 4782,
+        "name": "上海世纪虹旭影城",
+        "address": "上海市杨浦区控江路2066号1号楼4楼4F-8商铺",
+        "longitude": 121.5164222363955,
+        "latitude": 31.27879195673596,
+        "gpsAddress": "121.5164222363955:31.27879195673596",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-55085950",
+        "telephones": [
+          "021-55085950"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4782/8c03fcdc46384d49a900faaa6e73827b.jpg",
+        "businessTime": " 09:30 -23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 3.612762037029171
+      },
+      {
+        "cinemaId": 4084,
+        "name": "上影CGV大宁影城",
+        "address": "上海市闸北区共和新路1878号大宁国际商业广场第2座3楼",
+        "longitude": 121.4595248811274,
+        "latitude": 31.279738477239267,
+        "gpsAddress": "121.4595248811274:31.279738477239267",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-56651212",
+        "telephones": [
+          "021-56651212"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4084/3ef7c5514ee53189c9f0dc337d9ffdbd.jpg",
+        "businessTime": "9:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5600,
+        "Distance": 3.6242636619513617
+      },
+      {
+        "cinemaId": 985,
+        "name": "世博国际影城",
+        "address": "上海市浦东新区世博大道1200号世博文化中心6楼",
+        "longitude": 121.5033606709797,
+        "latitude": 31.192203297799015,
+        "gpsAddress": "121.5033606709797:31.192203297799015",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-20251186",
+        "telephones": [
+          "021-20251186"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/985/6b95c6ee3c463c808e93960ab389652c.tmp",
+        "businessTime": "10:00-24:00",
+        "notice": "3号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 3.7329830236626034
+      },
+      {
+        "cinemaId": 965,
+        "name": "上海兰馨悦立方影城",
+        "address": "上海市浦东新区张杨路400号（9号线商城路站3号口）",
+        "longitude": 121.521584,
+        "latitude": 31.231993,
+        "gpsAddress": "121.521584:31.231993",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58765103",
+        "telephones": [
+          "021-58765103"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/965/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 3.8804709207991936
+      },
+      {
+        "cinemaId": 7780,
+        "name": "红星电影世界上海汶水路店",
+        "address": "上海市静安区汶水路40号13幢（华昕红星电影世界）",
+        "longitude": 121.465113,
+        "latitude": 31.30006,
+        "gpsAddress": "121.465113:31.30006",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-61235062",
+        "telephones": [
+          "021-61235062"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7780/af7608bed640d0c1f96f85bc6fc1c1ba.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4900,
+        "Distance": 3.8970303884112245
+      },
+      {
+        "cinemaId": 4102,
+        "name": "SFC上影影城（八佰伴店）",
+        "address": "上海浦东张杨路501号",
+        "longitude": 121.52368778317825,
+        "latitude": 31.23361702876976,
+        "gpsAddress": "121.52368778317825:31.23361702876976",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58362988",
+        "telephones": [
+          "021-58362988"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4102/c678a9248f67055c429c705cc732023a.jpg",
+        "businessTime": "",
+        "notice": "1.7.9.10号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4900,
+        "Distance": 4.085276786470108
+      },
+      {
+        "cinemaId": 1703,
+        "name": "SFC上影影城（徐汇绿地滨江店）",
+        "address": "徐汇区凯滨路218号绿地缤纷城中庭3楼（近东安路、龙华中路）",
+        "longitude": 121.465159,
+        "latitude": 31.19237,
+        "gpsAddress": "121.465159:31.19237",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-33632851",
+        "telephones": [
+          "021-33632851"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1703/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "10:00至最后场影片放映结束",
+        "notice": "1.4.7号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 4.159945965482944
+      },
+      {
+        "cinemaId": 964,
+        "name": "大光明丽盛影城",
+        "address": "浦东新区南泉北路528号新大陆广场北楼4F",
+        "longitude": 121.52461426224394,
+        "latitude": 31.23497117904949,
+        "gpsAddress": "121.52461426224394:31.23497117904949",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68780333",
+        "telephones": [
+          "021-68780333"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/964/37ab71e7d4c59036d2707448d8c411cf.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4080,
+        "Distance": 4.169609214388607
+      },
+      {
+        "cinemaId": 7647,
+        "name": "大光明丽星VIP影城",
+        "address": "上海市浦东新区昌里路337号1幢4层",
+        "longitude": 121.49768458478434,
+        "latitude": 31.17937920137307,
+        "gpsAddress": "121.49768458478434:31.17937920137307",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "13601990888",
+        "telephones": [
+          "13601990888"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7647/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3700,
+        "Distance": 4.201666751191793
+      },
+      {
+        "cinemaId": 2426,
+        "name": "华士达影城（徐汇店）",
+        "address": "上海市徐汇区东安路599号绿地中心正大乐城3楼1-301",
+        "longitude": 121.46399007035974,
+        "latitude": 31.191887376789907,
+        "gpsAddress": "121.46399007035974:31.191887376789907",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-60671619",
+        "telephones": [
+          "021-60671619"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2426/2ddf71191d6e8901ddbdfbd13fbb096f.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 4.262219697211032
+      },
+      {
+        "cinemaId": 4751,
+        "name": "上海DFC影城（长清店）",
+        "address": "上海市浦东新区长清路92号3楼",
+        "longitude": 121.495100841646,
+        "latitude": 31.17682606392213,
+        "gpsAddress": "121.495100841646:31.17682606392213",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58890880",
+        "telephones": [
+          "021-58890880"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4751/47e18e7b54ea246657f7dda498f70932.jpg",
+        "businessTime": "09：30 -23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 4.2820403754788625
+      },
+      {
+        "cinemaId": 5343,
+        "name": "上海新华永乐国际影城",
+        "address": "上海市闸北区延长中路801号B座2楼",
+        "longitude": 121.451043,
+        "latitude": 31.272731,
+        "gpsAddress": "121.451043:31.272731",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-36572988",
+        "telephones": [
+          "021-36572988"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5343/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 4.32543780360029
+      },
+      {
+        "cinemaId": 5324,
+        "name": "上海卢米埃影城(紫荆广场店)",
+        "address": "上海市杨浦区控江路1628号紫荆广场西区5层",
+        "longitude": 121.523401,
+        "latitude": 31.280869,
+        "gpsAddress": "121.523401:31.280869",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-55803920",
+        "telephones": [
+          "021-55803920"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5324/4931d2acca6c82bbb0d63ebc9bb5e288.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 4.36126936780738
+      },
+      {
+        "cinemaId": 5316,
+        "name": "上海艾米1895电影街(静安店)",
+        "address": "北京西路1829号4楼（新华书店四楼，近乌鲁木齐路）",
+        "longitude": 121.4489355291147,
+        "latitude": 31.23027578121612,
+        "gpsAddress": "121.4489355291147:31.23027578121612",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-32586788",
+        "telephones": [
+          "021-32586788"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5316/48dc50e3cdcc3576b7d314198b39a084.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 4.474142942568127
+      },
+      {
+        "cinemaId": 2081,
+        "name": "上海翰金影城",
+        "address": "上海市浦东新区浦建路15号一层B区",
+        "longitude": 121.52473567092854,
+        "latitude": 31.216496886932514,
+        "gpsAddress": "121.52473567092854:31.216496886932514",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68388336-801",
+        "telephones": [
+          "021-68388336-801"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2081/91e20015b1578121a11f314f6318eea7.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 4.5194929067897185
+      },
+      {
+        "cinemaId": 2427,
+        "name": "上海宝山大光明影城",
+        "address": "宝山区殷高路65号上海文教产业园（交大附中对面）",
+        "longitude": 121.4960505041803,
+        "latitude": 31.326149539704776,
+        "gpsAddress": "121.4960505041803:31.326149539704776",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-32313231",
+        "telephones": [
+          "021-32313231"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2427/046842d0d9df29add9ee4c010e51ff01.tmp",
+        "businessTime": "11:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2600,
+        "Distance": 4.567943182676362
+      },
+      {
+        "cinemaId": 3171,
+        "name": "上海中宏影城",
+        "address": "上海市宝山区殷高西路555号中宏影城",
+        "longitude": 121.476795,
+        "latitude": 31.3261,
+        "gpsAddress": "121.476795:31.3261",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-36611118",
+        "telephones": [
+          "021-36611118"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3171/0bb3bebb9badcda8d6fda31220d59671.jpg",
+        "businessTime": "09：30-23:00",
+        "notice": "2018年4月13日上映的电影《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 4.640482685757887
+      },
+      {
+        "cinemaId": 5545,
+        "name": "海上明珠影城-上海大宁店",
+        "address": "上海市闸北区万荣路777号大宁音乐广场A座",
+        "longitude": 121.44966018049163,
+        "latitude": 31.28755440847266,
+        "gpsAddress": "121.44966018049163:31.28755440847266",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310106,
+        "districtName": "静安区",
+        "district": {
+          "districtId": 310106,
+          "name": "静安区"
+        },
+        "phone": "021-61670520",
+        "telephones": [
+          "021-61670520"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5545/7229bde2137607de3e9101bf19a776af.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5900,
+        "Distance": 4.806034746546896
+      },
+      {
+        "cinemaId": 997,
+        "name": "上海星光影城(亚新旗舰店)",
+        "address": "上海市普陀区长寿路401号亚新生活广场4楼（近常德路）",
+        "longitude": 121.444337,
+        "latitude": 31.245496,
+        "gpsAddress": "121.444337:31.245496",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-62881357",
+        "telephones": [
+          "021-62881357"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/997/1c613c263034ab9dc7ddfd2cf1c3c975.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 4.854029642109723
+      },
+      {
+        "cinemaId": 829,
+        "name": "无效三林大光明影城",
+        "address": "浦东新区长清路507号3楼",
+        "longitude": 121.49754200034396,
+        "latitude": 31.167397858829762,
+        "gpsAddress": "121.49754200034396:31.167397858829762",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50338415  ",
+        "telephones": [
+          "021-50338415  "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/829/7e97c0bb353710da02b3ace2023cc3ec.tmp",
+        "businessTime": "10:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 4.874404829895821
+      },
+      {
+        "cinemaId": 333,
+        "name": "幸福蓝海国际影城（上海三林店）",
+        "address": "上海市浦东新区长清路507-517号恒大长青商城3楼",
+        "longitude": 121.4976562127031,
+        "latitude": 31.166709902424408,
+        "gpsAddress": "121.4976562127031:31.166709902424408",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50338415",
+        "telephones": [
+          "021-50338415"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/333/c51188d89beda3c3221edd8bac4de6a1.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3150,
+        "Distance": 4.916237646716529
+      },
+      {
+        "cinemaId": 1749,
+        "name": "SFC上影复星影城（宜川路店）",
+        "address": "上海市普陀区宜川路300号2幢3楼",
+        "longitude": 121.4442235124774,
+        "latitude": 31.268630214908335,
+        "gpsAddress": "121.4442235124774:31.268630214908335",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-56500875",
+        "telephones": [
+          "021-56500875"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1749/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "09:30开始营业",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 4.991863874371766
+      },
+      {
+        "cinemaId": 46,
+        "name": "SFC上影（五角场又一城店）",
+        "address": "上海市杨浦区淞沪路8号百联又一城8楼",
+        "longitude": 121.5224631376494,
+        "latitude": 31.307254624790225,
+        "gpsAddress": "121.5224631376494:31.307254624790225",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65483154",
+        "telephones": [
+          "021-65483154"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/46/dab9381a3293fdd056e413e61a0a9707.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 5.120999639833974
+      },
+      {
+        "cinemaId": 2777,
+        "name": "上海东融国际影城",
+        "address": "杨浦区黄兴路1616号靠近百安居",
+        "longitude": 121.52816052895655,
+        "latitude": 31.29380038404378,
+        "gpsAddress": "121.52816052895655:31.29380038404378",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65661690",
+        "telephones": [
+          "021-65661690"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2777/1cf8ff28a7d875d212cb0db5fdf450e1.jpg",
+        "businessTime": "10：00-24：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 5.179877315820786
+      },
+      {
+        "cinemaId": 5074,
+        "name": "中影国际影城（上海合生汇店）",
+        "address": "上海市杨浦区翔殷路1099号合生汇4楼",
+        "longitude": 121.523957,
+        "latitude": 31.305463,
+        "gpsAddress": "121.523957:31.305463",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-55966080",
+        "telephones": [
+          "021-55966080"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5074/1955bc00f5b0462fc820ba9a8f53790d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 5.1806234311050465
+      },
+      {
+        "cinemaId": 245,
+        "name": "上海新衡山电影院",
+        "address": "上海市徐汇区衡山路838号",
+        "longitude": 121.44717364389085,
+        "latitude": 31.203553159615243,
+        "gpsAddress": "121.44717364389085:31.203553159615243",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64377418",
+        "telephones": [
+          "021-64377418"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/245/da93929ad4e7d97914d75b4c2ac1673d.jpg",
+        "businessTime": "9:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 5.25143982735509
+      },
+      {
+        "cinemaId": 144,
+        "name": "美罗城超极电影世界",
+        "address": "上海市徐汇区肇家浜路1111号美罗城5F",
+        "longitude": 121.44620959679042,
+        "latitude": 31.199482409803835,
+        "gpsAddress": "121.44620959679042:31.199482409803835",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64268181",
+        "telephones": [
+          "021-64268181"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/144/c5ae7d1883c2c229d87bf72cca751ec1.tmp",
+        "businessTime": "10:00–22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5700,
+        "Distance": 5.465511692884593
+      },
+      {
+        "cinemaId": 5319,
+        "name": "上海朵云轩杜比全景声影城",
+        "address": "上海市徐汇区天钥桥路1188号5楼",
+        "longitude": 121.45384474267587,
+        "latitude": 31.18115201737513,
+        "gpsAddress": "121.45384474267587:31.18115201737513",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64681572",
+        "telephones": [
+          "021-64681572"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5319/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 5.476607116029101
+      },
+      {
+        "cinemaId": 5317,
+        "name": "上海星光映会影城",
+        "address": "上海市徐汇区天钥桥路666号八万人体育场2号通道，世纪联华侧（零陵路）",
+        "longitude": 121.449359,
+        "latitude": 31.188722,
+        "gpsAddress": "121.449359:31.188722",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-33689238",
+        "telephones": [
+          "021-33689238"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5317/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 5.544629378159216
+      },
+      {
+        "cinemaId": 5352,
+        "name": "上海明星时代影城(淞南店)",
+        "address": "上海市宝山区长江南路651号世纪联华2楼",
+        "longitude": 121.487418,
+        "latitude": 31.344827,
+        "gpsAddress": "121.487418:31.344827",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66021828",
+        "telephones": [
+          "021-66021828"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5352/a68824bdd0e6a263348ee94762ab3516.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 5.562603971217041
+      },
+      {
+        "cinemaId": 991,
+        "name": "海上国际影城-港汇永华",
+        "address": "上海市虹桥路1号徐家汇港汇广场六楼",
+        "longitude": 121.44434029219369,
+        "latitude": 31.20070757769264,
+        "gpsAddress": "121.44434029219369:31.20070757769264",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64076622",
+        "telephones": [
+          "021-64076622"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/991/00668C2B5AF9ED9953EF7A4C285DE493.jpg",
+        "businessTime": "09:00-24:00",
+        "notice": "1.10号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 5800,
+        "Distance": 5.607152667167332
+      },
+      {
+        "cinemaId": 7742,
+        "name": "东方渔人码头华夏影城",
+        "address": "上海市杨浦区杨树浦路1088号（近江浦路）",
+        "longitude": 121.53808468124757,
+        "latitude": 31.258488010116217,
+        "gpsAddress": "121.53808468124757:31.258488010116217",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65950031",
+        "telephones": [
+          "021-65950031"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7742/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 5.612884302943476
+      },
+      {
+        "cinemaId": 7723,
+        "name": "SFC上影影城(淞南店)",
+        "address": "上海市宝山区长江西路380号（保利悦活荟）1楼",
+        "longitude": 121.482147,
+        "latitude": 31.349339,
+        "gpsAddress": "121.482147:31.349339",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66781930",
+        "telephones": [
+          "021-66781930"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7723/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 5.859350710667283
+      },
+      {
+        "cinemaId": 3998,
+        "name": "上海DFC影城（北艾店）",
+        "address": "上海市浦东新区北艾路1786号2楼",
+        "longitude": 121.5309655025395,
+        "latitude": 31.186089656046054,
+        "gpsAddress": "121.5309655025395:31.186089656046054",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50832805",
+        "telephones": [
+          "021-50832805"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3998/47e18e7b54ea246657f7dda498f70932.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3600,
+        "Distance": 6.037274488678083
+      },
+      {
+        "cinemaId": 5315,
+        "name": "上海博纳国际影城(中原店)",
+        "address": "国和路777号中原城市广场2座4楼（近民庆路）",
+        "longitude": 121.52836500754486,
+        "latitude": 31.321907616529035,
+        "gpsAddress": "121.52836500754486:31.321907616529035",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-35367020",
+        "telephones": [
+          "021-35367020"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5315/77f487b1a3199265eaa974057958b62e.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 6.180847872963865
+      },
+      {
+        "cinemaId": 984,
+        "name": "上海影城",
+        "address": "上海市长宁区新华路160号",
+        "longitude": 121.4357330441023,
+        "latitude": 31.20864916943328,
+        "gpsAddress": "121.4357330441023:31.20864916943328",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-62804088",
+        "telephones": [
+          "021-62804088"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/984/9e2b4d295cd6d8de237f94dadd8a7fa9.jpg",
+        "businessTime": "9:30-24:30",
+        "notice": "1.6.9号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 5700,
+        "Distance": 6.2660479543601095
+      },
+      {
+        "cinemaId": 1858,
+        "name": "SFC上影影城（百联滨江店）",
+        "address": "上海市杨浦区宁国路222号百联滨江购物中心4楼",
+        "longitude": 121.54386966901991,
+        "latitude": 31.270966567285356,
+        "gpsAddress": "121.54386966901991:31.270966567285356",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65662352",
+        "telephones": [
+          "021-65662352"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1858/50c9ac9aa30931a36fa313bf87b36407.jpg",
+        "businessTime": "10:00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 6.35845724409552
+      },
+      {
+        "cinemaId": 2442,
+        "name": "上海红树林影院",
+        "address": "上海市杨浦区长阳路1750号",
+        "longitude": 121.54355593222733,
+        "latitude": 31.276479747764338,
+        "gpsAddress": "121.54355593222733:31.276479747764338",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65011299",
+        "telephones": [
+          "021-65011299"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2442/6521d0e84631a9bc21eb036c175a0a84.tmp",
+        "businessTime": "09:30-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 6.396328353293405
+      },
+      {
+        "cinemaId": 4109,
+        "name": "上海博纳银兴国际影城(我格广场店)",
+        "address": "上海市普陀区武宁路101号我格广场4楼（近普雄路）",
+        "longitude": 121.4300965201799,
+        "latitude": 31.24372307292609,
+        "gpsAddress": "121.4300965201799:31.24372307292609",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-32520320",
+        "telephones": [
+          "021-32520320"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4109/fdbec99fd7dcedee784abf3fedfa0369.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 6.442349591353107
+      },
+      {
+        "cinemaId": 706,
+        "name": "上海DFC影城宝山店",
+        "address": "上海市宝山区共和新路5288号",
+        "longitude": 121.44911445001297,
+        "latitude": 31.333952508438518,
+        "gpsAddress": "121.44911445001297:31.333952508438518",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66670661",
+        "telephones": [
+          "021-66670661"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/706/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 6.551338886082456
+      },
+      {
+        "cinemaId": 995,
+        "name": "沪东工人文化宫",
+        "address": "上海市杨浦区平凉路1500号一号楼",
+        "longitude": 121.54608949152833,
+        "latitude": 31.27131487246484,
+        "gpsAddress": "121.54608949152833:31.27131487246484",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65189191",
+        "telephones": [
+          "021-65189191"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/995/1cde265c6965143bfc95d9e587879d8f.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 6.604714865914777
+      },
+      {
+        "cinemaId": 7738,
+        "name": "上影CMC影城",
+        "address": "徐汇区田林东路75号3楼",
+        "longitude": 121.439742,
+        "latitude": 31.180625,
+        "gpsAddress": "121.439742:31.180625",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-54960037",
+        "telephones": [
+          "021-54960037"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7738/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3600,
+        "Distance": 6.678130951203791
+      },
+      {
+        "cinemaId": 7716,
+        "name": "上海比高电影城(宝山店)",
+        "address": "上海市宝山区通河路533弄红太阳商业广场3层（长江西路）",
+        "longitude": 121.45238371973002,
+        "latitude": 31.34360549398474,
+        "gpsAddress": "121.45238371973002:31.34360549398474",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-36519901",
+        "telephones": [
+          "021-36519901"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7716/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 6.764277266840891
+      },
+      {
+        "cinemaId": 597,
+        "name": "上海中影影尊国际影城",
+        "address": "上海市普陀区铜川路68号三楼电影院",
+        "longitude": 121.4265571641316,
+        "latitude": 31.261734801229792,
+        "gpsAddress": "121.4265571641316:31.261734801229792",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-52835989",
+        "telephones": [
+          "021-52835989"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/597/795f6bceaddd7e5610f8a1b90c978011.png",
+        "businessTime": "10:00—23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 6.867548833936485
+      },
+      {
+        "cinemaId": 5320,
+        "name": "上海比高电影院(锦绣店)",
+        "address": "锦绣路2486弄7号地下一层（上海浦东星河湾大酒店）",
+        "longitude": 121.544217,
+        "latitude": 31.200032,
+        "gpsAddress": "121.544217:31.200032",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58811172",
+        "telephones": [
+          "021-58811172"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5320/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 6.8903294548961265
+      },
+      {
+        "cinemaId": 2225,
+        "name": "上海金谊华夏影城",
+        "address": "浦东新区上南路4467号金谊广场天桥下",
+        "longitude": 121.51928250373699,
+        "latitude": 31.1466828544175,
+        "gpsAddress": "121.51928250373699:31.1466828544175",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58583586",
+        "telephones": [
+          "021-58583586"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2225/96db1b5145766d28667b805ecafdd0da.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 6.909481631449149
+      },
+      {
+        "cinemaId": 7988,
+        "name": "SFC上影影城（徐汇日月光店）",
+        "address": "上海市徐汇区漕宝路33号四层l4",
+        "longitude": 121.439016,
+        "latitude": 31.175392,
+        "gpsAddress": "121.439016:31.175392",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "暂无",
+        "telephones": [
+          "暂无"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7988/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "09:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 6.927066219731679
+      },
+      {
+        "cinemaId": 7736,
+        "name": "华夏万幕国际影城(成山路)",
+        "address": "上海市浦东新区成山路1993号3楼10号商铺",
+        "longitude": 121.542216,
+        "latitude": 31.185672,
+        "gpsAddress": "121.542216:31.185672",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-60753235",
+        "telephones": [
+          "021-60753235"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7736/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 7.0858100872330105
+      },
+      {
+        "cinemaId": 2592,
+        "name": "上海UL城市影院隆昌店",
+        "address": "上海市杨浦区隆昌路586号七巧国商场四楼",
+        "longitude": 121.550322555922,
+        "latitude": 31.28040104616289,
+        "gpsAddress": "121.550322555922:31.28040104616289",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-65909981",
+        "telephones": [
+          "021-65909981"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2592/09adafa6ec3f453081a2f10064d2695d.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 7.18278506734922
+      },
+      {
+        "cinemaId": 5347,
+        "name": "上海华夏晶华影城",
+        "address": "上海市浦东新区三林路1515号晶华公馆5号楼2楼",
+        "longitude": 121.528862,
+        "latitude": 31.152848,
+        "gpsAddress": "121.528862:31.152848",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68820981",
+        "telephones": [
+          "021-68820981"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5347/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 7.224298407934727
+      },
+      {
+        "cinemaId": 7747,
+        "name": "海上明珠国际影城(光大店)",
+        "address": "上海市徐汇区漕宝路68号2层",
+        "longitude": 121.43512703912053,
+        "latitude": 31.174106781137823,
+        "gpsAddress": "121.43512703912053:31.174106781137823",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-54368002",
+        "telephones": [
+          "021-54368002"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7747/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 7.316207525385658
+      },
+      {
+        "cinemaId": 8166,
+        "name": "明星时代影城上海富荟广场",
+        "address": "上海市浦东新区樱花路80弄·6号地下101室",
+        "longitude": 121.55215132088937,
+        "latitude": 31.211201441389676,
+        "gpsAddress": "121.55215132088937:31.211201441389676",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58582831",
+        "telephones": [
+          "021-58582831"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8166/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 7.485887468205894
+      },
+      {
+        "cinemaId": 5350,
+        "name": "上海大光明丽星汇影城(杨浦店)",
+        "address": "上海市杨浦区民星路378号太平洋生活广场2F",
+        "longitude": 121.545459,
+        "latitude": 31.317887,
+        "gpsAddress": "121.545459:31.317887",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310110,
+        "districtName": "杨浦区",
+        "district": {
+          "districtId": 310110,
+          "name": "杨浦区"
+        },
+        "phone": "021-35399133",
+        "telephones": [
+          "021-35399133"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5350/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 7.553147204821635
+      },
+      {
+        "cinemaId": 4073,
+        "name": "CGV星星影城大华店",
+        "address": "上海市宝山区大华路348号C区三楼",
+        "longitude": 121.42059250807081,
+        "latitude": 31.27624833859708,
+        "gpsAddress": "121.42059250807081:31.27624833859708",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-36533773",
+        "telephones": [
+          "021-36533773"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4073/3ef7c5514ee53189c9f0dc337d9ffdbd.jpg",
+        "businessTime": "09：00-凌晨01：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 7.656002993025305
+      },
+      {
+        "cinemaId": 871,
+        "name": "海上国际影城月星环球港店",
+        "address": "上海市普陀区中山北路3300号环球港4楼",
+        "longitude": 121.41928277863727,
+        "latitude": 31.23960883480818,
+        "gpsAddress": "121.41928277863727:31.23960883480818",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-60670960 ",
+        "telephones": [
+          "021-60670960 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/871/6c2f83af749f8b42fcfd92e25b8751fb.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 7.658506170949692
+      },
+      {
+        "cinemaId": 8444,
+        "name": "邻嘉影院",
+        "address": "上海市宝山区薀川路6号智慧湾科创园D区22号楼",
+        "longitude": 121.44066397689411,
+        "latitude": 31.34985537994616,
+        "gpsAddress": "121.44066397689411:31.34985537994616",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66065066",
+        "telephones": [
+          "021-66065066"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8444/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 7.866449281705628
+      },
+      {
+        "cinemaId": 963,
+        "name": "上海巨影国际影城",
+        "address": "徐汇区吴中路52号宝鼎古北广场7楼",
+        "longitude": 121.42225046114378,
+        "latitude": 31.193835623232985,
+        "gpsAddress": "121.42225046114378:31.193835623232985",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64311211",
+        "telephones": [
+          "021-64311211"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/963/6473af30555810eccea8aaa5c2ee87f6.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 7.983491220806706
+      },
+      {
+        "cinemaId": 4025,
+        "name": "SFC上影影城（丁香路店）",
+        "address": "上海中国（上海）自由贸易试验区丁香路858号三楼",
+        "longitude": 121.55906261683128,
+        "latitude": 31.231763249496204,
+        "gpsAddress": "121.55906261683128:31.231763249496204",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68585768",
+        "telephones": [
+          "021-68585768"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4025/e5b41c29246122490d1aa753514d5204.png",
+        "businessTime": "10:00-24:00",
+        "notice": "3号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 7.986304184104633
+      },
+      {
+        "cinemaId": 7798,
+        "name": "斐王国际影城",
+        "address": "上海市宝山区场北路700号三层2号",
+        "longitude": 121.432035,
+        "latitude": 31.338001,
+        "gpsAddress": "121.432035:31.338001",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-56682223",
+        "telephones": [
+          "021-56682223"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7798/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 8.081668716892791
+      },
+      {
+        "cinemaId": 7751,
+        "name": "UME国际影城(宝山店)",
+        "address": "上海宝山区牡丹江路318号诺亚新天地D区4层",
+        "longitude": 121.501106,
+        "latitude": 31.386806,
+        "gpsAddress": "121.501106:31.386806",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-36555580",
+        "telephones": [
+          "021-36555580"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7751/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3950,
+        "Distance": 8.138608197281547
+      },
+      {
+        "cinemaId": 999,
+        "name": "曹杨影城",
+        "address": "上海市普陀区兰溪路125号",
+        "longitude": 121.41232091093494,
+        "latitude": 31.244796515920847,
+        "gpsAddress": "121.41232091093494:31.244796515920847",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-52668755",
+        "telephones": [
+          "021-52668755"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/999/91AA87C525C6E8F0BC2C22119217FC18.jpg",
+        "businessTime": "9:30-21:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 8.417187770312104
+      },
+      {
+        "cinemaId": 5544,
+        "name": "海上明珠影城-上海联洋店",
+        "address": "上海浦东新区芳甸路226号联洋广场2楼（迎春路）",
+        "longitude": 121.56424413539342,
+        "latitude": 31.232974265977575,
+        "gpsAddress": "121.56424413539342:31.232974265977575",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-61821388",
+        "telephones": [
+          "021-61821388"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5544/7229bde2137607de3e9101bf19a776af.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5600,
+        "Distance": 8.550719617066683
+      },
+      {
+        "cinemaId": 247,
+        "name": "上海万竣国际影城（汇金虹桥店）",
+        "address": "上海市长宁区天山路900号6楼",
+        "longitude": 121.41180348696118,
+        "latitude": 31.217162103159914,
+        "gpsAddress": "121.41180348696118:31.217162103159914",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-60910470",
+        "telephones": [
+          "021-60910470"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/247/7137E8D21B5A80316EBBB6CD62D06B59.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 8.672461684397733
+      },
+      {
+        "cinemaId": 4144,
+        "name": "上海庆春电影城",
+        "address": "上海市徐汇区田林路140号15幢4座",
+        "longitude": 121.41900823042255,
+        "latitude": 31.1762931855789,
+        "gpsAddress": "121.41900823042255:31.1762931855789",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-33676660",
+        "telephones": [
+          "021-33676660"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4144/9a1e3dd9ad7a611e20f31050f7c023f5.jpg",
+        "businessTime": "9:00-22:30",
+        "notice": "2018年4月13日上映的电影《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 8.759484551612081
+      },
+      {
+        "cinemaId": 5338,
+        "name": "上海天山电影院虹桥艺术中心旗舰店",
+        "address": "上海市长宁区天山路888号（近娄山关路）",
+        "longitude": 121.410886,
+        "latitude": 31.217824,
+        "gpsAddress": "121.410886:31.217824",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-52066600",
+        "telephones": [
+          "021-52066600"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5338/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 8.764180731207581
+      },
+      {
+        "cinemaId": 2023,
+        "name": "中影DFC影城龙阳路店",
+        "address": "上海市浦东新区龙阳路2000号龙阳广场5楼501-1",
+        "longitude": 121.5639203348842,
+        "latitude": 31.209482249893952,
+        "gpsAddress": "121.5639203348842:31.209482249893952",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68388318",
+        "telephones": [
+          "021-68388318"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2023/d375a45e2988fb2ed048d90e76f711f6.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 8.772116015078653
+      },
+      {
+        "cinemaId": 7423,
+        "name": "上海耀莱成龙国际影城（曹杨路店）",
+        "address": "上海市普陀区曹杨路2033号天汇广场商场3楼",
+        "longitude": 121.40921415007445,
+        "latitude": 31.261829628942984,
+        "gpsAddress": "121.40921415007445:31.261829628942984",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-62680622",
+        "telephones": [
+          "021-62680622"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7423/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "9:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 8.79005683928306
+      },
+      {
+        "cinemaId": 5326,
+        "name": "上海优幕星天地影城",
+        "address": "上海市徐汇区上中西路280号凌云壹街坊4楼（凌云1街坊）",
+        "longitude": 121.43249194281728,
+        "latitude": 31.141097570608036,
+        "gpsAddress": "121.43249194281728:31.141097570608036",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64778680",
+        "telephones": [
+          "021-64778680"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5326/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 8.801196366133999
+      },
+      {
+        "cinemaId": 855,
+        "name": "上海宝山上影国际影城",
+        "address": "宝山区永清路700号 宝山体育中心一楼（永乐路6号门进）",
+        "longitude": 121.49753066103351,
+        "latitude": 31.39995208983311,
+        "gpsAddress": "121.49753066103351:31.39995208983311",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-31151155",
+        "telephones": [
+          "021-31151155"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/855/179719a6c9da54372af83f8c57963c0c.jpg",
+        "businessTime": "",
+        "notice": "5号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 8.834091836758294
+      },
+      {
+        "cinemaId": 2619,
+        "name": "万画影城北上海广场店",
+        "address": "宝山区蕴川路1555号北上海商业广场二层",
+        "longitude": 121.43938083730366,
+        "latitude": 31.371477159217086,
+        "gpsAddress": "121.43938083730366:31.371477159217086",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-31071221",
+        "telephones": [
+          "021-31071221"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2619/f3f12083d9f6b5ea568632725741aebc.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4100,
+        "Distance": 8.92643650814437
+      },
+      {
+        "cinemaId": 2226,
+        "name": "上海太禾影城",
+        "address": "上海市闵行区陈行公路2688号华侨城4楼401A",
+        "longitude": 121.51083462672105,
+        "latitude": 31.100537729372924,
+        "gpsAddress": "121.51083462672105:31.100537729372924",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-80101648",
+        "telephones": [
+          "021-80101648"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2226/3078e764e06068a22812d5a055ab038c.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 9.013597626277905
+      },
+      {
+        "cinemaId": 987,
+        "name": "海上国际影城-喜玛拉雅",
+        "address": "上海市浦东新区芳甸路1188弄喜玛拉雅中心7－8层",
+        "longitude": 121.568675,
+        "latitude": 31.21646,
+        "gpsAddress": "121.568675:31.21646",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-60457099/021-60457098",
+        "telephones": [
+          "021-60457099/021-60457098"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/987/1e27f96997af8e82c8fbb2293362f792.jpg",
+        "businessTime": "10:00－24:00",
+        "notice": "6号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 9.191178947160601
+      },
+      {
+        "cinemaId": 996,
+        "name": "梅陇文化馆",
+        "address": "上海市徐汇区梅陇路415号",
+        "longitude": 121.42560874125891,
+        "latitude": 31.144388231989694,
+        "gpsAddress": "121.42560874125891:31.144388231989694",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310104,
+        "districtName": "徐汇区",
+        "district": {
+          "districtId": 310104,
+          "name": "徐汇区"
+        },
+        "phone": "021-64542461",
+        "telephones": [
+          "021-64542461"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/996/12ccff4abfed9592b622500a13132deb.jpg",
+        "businessTime": "周一至周五12:00-20:00周末8:30-21:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 9.226538242371307
+      },
+      {
+        "cinemaId": 7750,
+        "name": "比高影城(古北店)",
+        "address": "上海闵行区古北路1699号B1层",
+        "longitude": 121.409343,
+        "latitude": 31.194017,
+        "gpsAddress": "121.409343:31.194017",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64883699",
+        "telephones": [
+          "021-64883699"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7750/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 9.31291332706281
+      },
+      {
+        "cinemaId": 8128,
+        "name": "太禾影城（江园店）",
+        "address": "上海市闵行区浦锦路309弄3号地下一层06室B-34",
+        "longitude": 121.504214,
+        "latitude": 31.082409,
+        "gpsAddress": "121.504214:31.082409",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-33883700",
+        "telephones": [
+          "021-33883700"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8128/f285fa83faca0a6c508025a961be82e6.jpg",
+        "businessTime": "10:00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3990,
+        "Distance": 9.866544405546039
+      },
+      {
+        "cinemaId": 5334,
+        "name": "上海亿博国际影城",
+        "address": "上海市宝山区蕰川路1999号亿博大厦4楼",
+        "longitude": 121.435256,
+        "latitude": 31.388924,
+        "gpsAddress": "121.435256:31.388924",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66221200",
+        "telephones": [
+          "021-66221200"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5334/b42a5dd63bd80b6206b3f8be739758ff.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3200,
+        "Distance": 10.014053896756906
+      },
+      {
+        "cinemaId": 490,
+        "name": "上海闵行时代影城",
+        "address": "上海市闵行区莲花南路3999弄7号楼210室",
+        "longitude": 121.41086385939774,
+        "latitude": 31.139394167632265,
+        "gpsAddress": "121.41086385939774:31.139394167632265",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64096033",
+        "telephones": [
+          "021-64096033"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/490/4f4e48d5db5961f7b184214ad79e4897.png",
+        "businessTime": "09:30-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 10.685750892199756
+      },
+      {
+        "cinemaId": 3197,
+        "name": "SFC上影影城（天山缤谷广场店）",
+        "address": "上海市长宁区天山路345号缤谷广场东座5楼",
+        "longitude": 121.392992,
+        "latitude": 31.220259,
+        "gpsAddress": "121.392992:31.220259",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-63801012",
+        "telephones": [
+          "021-63801012"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3197/e5b41c29246122490d1aa753514d5204.png",
+        "businessTime": "早10：00至晚22：30",
+        "notice": "1号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 10.697517050538776
+      },
+      {
+        "cinemaId": 4943,
+        "name": "上海CMC大光明影城（莲花店）",
+        "address": "闵行区沪闵路7866号莲花广场B1层（地铁一号线莲花路站对面）",
+        "longitude": 121.408898,
+        "latitude": 31.139951,
+        "gpsAddress": "121.408898:31.139951",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-34500018",
+        "telephones": [
+          "021-34500018"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4943/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 10.843104093922697
+      },
+      {
+        "cinemaId": 7759,
+        "name": "菲林山谷杜比全景声影城",
+        "address": "上海普陀区梅川路1318号1F-1（百安居正门旁）",
+        "longitude": 121.38939,
+        "latitude": 31.249233,
+        "gpsAddress": "121.38939:31.249233",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-62188170",
+        "telephones": [
+          "021-62188170"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7759/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 10.966026566164167
+      },
+      {
+        "cinemaId": 4083,
+        "name": "上海世纪友谊影城",
+        "address": "上海市沪闵路7250号友谊南方商城9楼（地铁一号线莲花站对面）",
+        "longitude": 121.40726857125516,
+        "latitude": 31.136572965597807,
+        "gpsAddress": "121.40726857125516:31.136572965597807",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64120260",
+        "telephones": [
+          "021-64120260"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4083/d206a4e209e09cb3de11ddb20ab7bdec.jpg",
+        "businessTime": "9:30-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 11.10502190523041
+      },
+      {
+        "cinemaId": 1421,
+        "name": "上海耀莱成龙国际影城（金沙江路店）",
+        "address": "上海市普陀区真北路818号近铁城市广场北座四层",
+        "longitude": 121.38811250988213,
+        "latitude": 31.238831759926107,
+        "gpsAddress": "121.38811250988213:31.238831759926107",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-62156677",
+        "telephones": [
+          "021-62156677"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1421/efe07501971f2fda932391a6c00a3411.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 11.124415440421098
+      },
+      {
+        "cinemaId": 6666,
+        "name": "上海中影星美国际影城康桥店",
+        "address": "上海浦东新区沪南公路2651号5楼",
+        "longitude": 121.5742779339567,
+        "latitude": 31.152812380373515,
+        "gpsAddress": "121.5742779339567:31.152812380373515",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50302098",
+        "telephones": [
+          "021-50302098"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6666/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3290,
+        "Distance": 11.131991795986455
+      },
+      {
+        "cinemaId": 5337,
+        "name": "上海华夏久金国际影城",
+        "address": "上海市浦东新区张杨路3918号3楼（久金广场）",
+        "longitude": 121.588506,
+        "latitude": 31.261558,
+        "gpsAddress": "121.588506:31.261558",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58460310",
+        "telephones": [
+          "021-58460310"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5337/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 11.222701968190679
+      },
+      {
+        "cinemaId": 7726,
+        "name": "博纳国际影城(新荟城店)",
+        "address": "闵行区莲花南路1388弄7号3层L3-01铺位",
+        "longitude": 121.418135,
+        "latitude": 31.107158,
+        "gpsAddress": "121.418135:31.107158",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-33509965",
+        "telephones": [
+          "021-33509965"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7726/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 11.329187389480392
+      },
+      {
+        "cinemaId": 92,
+        "name": "金逸影城中环店",
+        "address": "上海市金沙江路1628号绿洲中环太平洋广场5号楼（农工商118广场对面）",
+        "longitude": 121.38626278744721,
+        "latitude": 31.238800705501585,
+        "gpsAddress": "121.38626278744721:31.238800705501585",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-32513346",
+        "telephones": [
+          "021-32513346"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/92/d14cfdb306f24a0b6313783064c57045.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 11.330126295112917
+      },
+      {
+        "cinemaId": 5342,
+        "name": "上海德信影城(巴黎春天店)",
+        "address": "上海市普陀区金沙江路1685号118广场5楼",
+        "longitude": 121.3853627976144,
+        "latitude": 31.237201477738836,
+        "gpsAddress": "121.3853627976144:31.237201477738836",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-52680226",
+        "telephones": [
+          "021-52680226"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5342/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 11.435434673244844
+      },
+      {
+        "cinemaId": 6401,
+        "name": "上海轩影国际影城",
+        "address": "上海市宝山区聚丰园路165号三楼",
+        "longitude": 121.39028729314892,
+        "latitude": 31.3207612778687,
+        "gpsAddress": "121.39028729314892:31.3207612778687",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-36309988",
+        "telephones": [
+          "021-36309988"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6401/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "09:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 11.634267451835127
+      },
+      {
+        "cinemaId": 820,
+        "name": "上海完美世界影城北虹店",
+        "address": "长宁区北虹路1068号4楼",
+        "longitude": 121.38356635727249,
+        "latitude": 31.220923910952624,
+        "gpsAddress": "121.38356635727249:31.220923910952624",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021－62907722  ",
+        "telephones": [
+          "021－62907722  "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/820/dab9381a3293fdd056e413e61a0a9707.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 11.729446584166494
+      },
+      {
+        "cinemaId": 5322,
+        "name": "上海月浦文化馆影剧院",
+        "address": "上海市宝山区龙镇路96号（四元路）",
+        "longitude": 121.433687,
+        "latitude": 31.423351,
+        "gpsAddress": "121.433687:31.423351",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-56649163",
+        "telephones": [
+          "021-56649163"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5322/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 11.783038217327428
+      },
+      {
+        "cinemaId": 753,
+        "name": "金逸影城张江店",
+        "address": "上海浦东新区碧波路635号传奇广场内2楼",
+        "longitude": 121.59177091113568,
+        "latitude": 31.206211221087067,
+        "gpsAddress": "121.59177091113568:31.206211221087067",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50802001",
+        "telephones": [
+          "021-50802001"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/753/d14cfdb306f24a0b6313783064c57045.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 11.830302559848024
+      },
+      {
+        "cinemaId": 3126,
+        "name": "上海鸿纳国际影城",
+        "address": "上海市浦东新区张杨北路5688弄100号鸿纳国际影城",
+        "longitude": 121.57902494408515,
+        "latitude": 31.354966242097593,
+        "gpsAddress": "121.57902494408515:31.354966242097593",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58581988",
+        "telephones": [
+          "021-58581988"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3126/48949c54cf6607c85e503c6522a4644c.png",
+        "businessTime": "09:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 11.867852581604454
+      },
+      {
+        "cinemaId": 4056,
+        "name": "佰迦乐大光明影城文峰店",
+        "address": "上海市张杨北路801号文峰广场二楼",
+        "longitude": 121.59375077647967,
+        "latitude": 31.277225925815397,
+        "gpsAddress": "121.59375077647967:31.277225925815397",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-22062967",
+        "telephones": [
+          "021-22062967"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4056/11628062c50f78a14b27d9a44fd6fd5b.tmp",
+        "businessTime": "10：00－22：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5300,
+        "Distance": 11.89609789630976
+      },
+      {
+        "cinemaId": 1297,
+        "name": "横店电影城上海普陀店",
+        "address": "上海普陀区真南路1228号康建商务广场三楼",
+        "longitude": 121.381635,
+        "latitude": 31.277745,
+        "gpsAddress": "121.381635:31.277745",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "021-66971119",
+        "telephones": [
+          "021-66971119"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1297/287d24415747c2c2f2c2eecff72ee550.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 11.945135418009707
+      },
+      {
+        "cinemaId": 5351,
+        "name": "上海珠影沪亚国际影城",
+        "address": "上海市闵行区永德路419号永德生活广场2楼珠影沪亚国际影城",
+        "longitude": 121.462523,
+        "latitude": 31.047338,
+        "gpsAddress": "121.462523:31.047338",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-33887799",
+        "telephones": [
+          "021-33887799"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5351/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 12.065979129000812
+      },
+      {
+        "cinemaId": 2999,
+        "name": "上海Always国际影城",
+        "address": "上海市浦东新区平度路258金桥大拇指广场3号楼1层(胶东路) ",
+        "longitude": 121.59859500033211,
+        "latitude": 31.261338870626624,
+        "gpsAddress": "121.59859500033211:31.261338870626624",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50811033",
+        "telephones": [
+          "021-50811033"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2999/58f696a2b3ea44b6bd3d675cfd4d661a.tmp",
+        "businessTime": "09:30-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3600,
+        "Distance": 12.342956672675045
+      },
+      {
+        "cinemaId": 7333,
+        "name": "上海华士达影城（漕宝店）",
+        "address": "上海市闵行区虹莘路2968弄37号4层01室\t",
+        "longitude": 121.38538849813504,
+        "latitude": 31.162222631971005,
+        "gpsAddress": "121.38538849813504:31.162222631971005",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-60760102\t",
+        "telephones": [
+          "021-60760102\t"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7333/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 12.477983724312487
+      },
+      {
+        "cinemaId": 2561,
+        "name": "上海左岸影城金汇店",
+        "address": "上海市闵行区金汇路528号虹桥古玩城5楼左岸影城",
+        "longitude": 121.38053270770087,
+        "latitude": 31.186739636081825,
+        "gpsAddress": "121.38053270770087:31.186739636081825",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-54860799",
+        "telephones": [
+          "021-54860799"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2561/71ff4cc6777c532a85db697dca24e13f.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 12.48933522998464
+      },
+      {
+        "cinemaId": 3311,
+        "name": "上海时代影城",
+        "address": "上海闵行区莲花南路3999弄7号210室（万乐成2楼）",
+        "longitude": 121.452064,
+        "latitude": 31.044606,
+        "gpsAddress": "121.452064:31.044606",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021—64096033",
+        "telephones": [
+          "021—64096033"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3311/e3037eb4413e55ea06cb9cd7b7753b26.jpg",
+        "businessTime": "09:30-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 12.53913657458119
+      },
+      {
+        "cinemaId": 764,
+        "name": "中影海艺数字影城",
+        "address": "浦东新区华佗路280弄31号",
+        "longitude": 121.598214,
+        "latitude": 31.196991,
+        "gpsAddress": "121.598214:31.196991",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-22066612",
+        "telephones": [
+          "021-22066612"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/764/c17e64b991b63f943d62975723e58527.tmp",
+        "businessTime": "11:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 12.650407268537677
+      },
+      {
+        "cinemaId": 4129,
+        "name": "上海世纪仙霞影城",
+        "address": "上海市长宁区仙霞西路88号（近哈密路）百联西郊购物中心4楼",
+        "longitude": 121.3755956664316,
+        "latitude": 31.215158719451384,
+        "gpsAddress": "121.3755956664316:31.215158719451384",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-62397873/62397625",
+        "telephones": [
+          "021-62397873/62397625"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4129/80c074548de7a728eb0d79b8cf8ab4a4.jpg",
+        "businessTime": "10:00-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 12.656477559667767
+      },
+      {
+        "cinemaId": 7781,
+        "name": "红星电影世界上海吴中路旗舰店",
+        "address": "上海市闵行区吴中路1588号爱琴海购物公园7楼红星电影世界",
+        "longitude": 121.379723,
+        "latitude": 31.180695,
+        "gpsAddress": "121.379723:31.180695",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-31780868",
+        "telephones": [
+          "021-31780868"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7781/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6200,
+        "Distance": 12.681184962384357
+      },
+      {
+        "cinemaId": 1699,
+        "name": "星美影商城（上海外高桥店）",
+        "address": "上海市浦东新区启帆路628号森兰商都3楼328室",
+        "longitude": 121.5980096806313,
+        "latitude": 31.31811907611718,
+        "gpsAddress": "121.5980096806313:31.31811907611718",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50561233",
+        "telephones": [
+          "021-50561233"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1699/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3990,
+        "Distance": 12.898465409293356
+      },
+      {
+        "cinemaId": 4090,
+        "name": "上海CGV莘庄影城",
+        "address": "上海市闵行区都市路5001号仲盛世界商城四楼",
+        "longitude": 121.39447482423287,
+        "latitude": 31.114131121675772,
+        "gpsAddress": "121.39447482423287:31.114131121675772",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-34633369",
+        "telephones": [
+          "021-34633369"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4090/3ef7c5514ee53189c9f0dc337d9ffdbd.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4100,
+        "Distance": 13.024501699660943
+      },
+      {
+        "cinemaId": 2494,
+        "name": "上海上影河马国际影城",
+        "address": "上海浦东新区祖冲之路1136号5层",
+        "longitude": 121.60740987035477,
+        "latitude": 31.209863568265533,
+        "gpsAddress": "121.60740987035477:31.209863568265533",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50802336",
+        "telephones": [
+          "021-50802336"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2494/6781c0dbfed17195935fe3ff71e83fc1.tmp",
+        "businessTime": "10:00-01:00(次日)",
+        "notice": "本影城谢绝外带食品",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 13.499290528288887
+      },
+      {
+        "cinemaId": 4041,
+        "name": "星美影商城（上海闵行店）",
+        "address": "上海市闵行区颛桥镇光华路1号",
+        "longitude": 121.40471656255559,
+        "latitude": 31.078136479679074,
+        "gpsAddress": "121.40471656255559:31.078136479679074",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-34672659-801",
+        "telephones": [
+          "021-34672659-801"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4041/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "9:00-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 13.579270952698753
+      },
+      {
+        "cinemaId": 1736,
+        "name": "上海中影金科路店",
+        "address": "上海市浦东新区祖冲之路1239弄2号长泰广场1号楼3层",
+        "longitude": 121.60848089828299,
+        "latitude": 31.211998262916257,
+        "gpsAddress": "121.60848089828299:31.211998262916257",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-56050225 ",
+        "telephones": [
+          "021-56050225 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1736/ca8100cd367e26fdbb6bb126ed898927.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 13.596464390257081
+      },
+      {
+        "cinemaId": 2475,
+        "name": "上海华士达影城宝山店",
+        "address": "上海市宝山区陆翔路111弄10号正大乐城3楼",
+        "longitude": 121.376741,
+        "latitude": 31.351573,
+        "gpsAddress": "121.376741:31.351573",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-61736906",
+        "telephones": [
+          "021-61736906"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2475/2ddf71191d6e8901ddbdfbd13fbb096f.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3200,
+        "Distance": 13.728208262247055
+      },
+      {
+        "cinemaId": 5328,
+        "name": "上海木槿校园影城(交大店)",
+        "address": "上海市闵行区东川路800号上海交通大学闵行校区光彪楼（上海交通大学）",
+        "longitude": 121.44079,
+        "latitude": 31.029921,
+        "gpsAddress": "121.44079:31.029921",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "18717799947",
+        "telephones": [
+          "18717799947"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5328/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 13.776218524358539
+      },
+      {
+        "cinemaId": 988,
+        "name": "海上国际影城-莘庄龙之梦",
+        "address": "上海市闵行区沪闵路6088号莘庄凯德龙之梦购物中心4楼",
+        "longitude": 121.384249,
+        "latitude": 31.113845,
+        "gpsAddress": "121.384249:31.113845",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64880138",
+        "telephones": [
+          "021-64880138"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/988/0bcf1189079444f09fcd0ac21c2b9607.jpg",
+        "businessTime": "9:30-23:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 13.95899405027094
+      },
+      {
+        "cinemaId": 7779,
+        "name": "华昕·红星电影世界上海张江绿地店 ",
+        "address": "上海市浦东新区海趣路208弄28号张江绿地缤纷广场3楼",
+        "longitude": 121.610166,
+        "latitude": 31.184011,
+        "gpsAddress": "121.610166:31.184011",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021- 50182898",
+        "telephones": [
+          "021- 50182898"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7779/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "09:30-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5300,
+        "Distance": 14.12974332682379
+      },
+      {
+        "cinemaId": 4884,
+        "name": "SFC上影影城（金桥太茂店）",
+        "address": "上海市浦东新区金高路1882号金桥太茂广场四楼L401",
+        "longitude": 121.61452568490114,
+        "latitude": 31.271147521650825,
+        "gpsAddress": "121.61452568490114:31.271147521650825",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68766606",
+        "telephones": [
+          "021-68766606"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4884/50c9ac9aa30931a36fa313bf87b36407.png",
+        "businessTime": "10：00-24：00",
+        "notice": "7号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 14.15401953355735
+      },
+      {
+        "cinemaId": 5323,
+        "name": "上海上影虹桥临空国际影城",
+        "address": "金钟路968号凌空SOHO下沉式广场",
+        "longitude": 121.359612,
+        "latitude": 31.227483,
+        "gpsAddress": "121.359612:31.227483",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310105,
+        "districtName": "长宁区",
+        "district": {
+          "districtId": 310105,
+          "name": "长宁区"
+        },
+        "phone": "021-62588318",
+        "telephones": [
+          "021-62588318"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5323/ce57110e020c539159d65b74acdac80d.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 14.336215147346211
+      },
+      {
+        "cinemaId": 2294,
+        "name": "上海CFR美影国际影城（新紫茂店）",
+        "address": "上海市浦东巨峰路1058弄2号（新紫茂商场3层）",
+        "longitude": 121.615851,
+        "latitude": 31.285594,
+        "gpsAddress": "121.615851:31.285594",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68682079",
+        "telephones": [
+          "021-68682079"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2294/e74aef1cd9c7a5942cfe7c293a3d2d72.tmp",
+        "businessTime": "10:30-24:00 ",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 14.400725063990455
+      },
+      {
+        "cinemaId": 1407,
+        "name": "上海华彩弘歌鑫都影城",
+        "address": "上海市闵行区颛桥鑫都路2508号甲-2（鑫都商业广场1幢3层）",
+        "longitude": 121.40221048242013,
+        "latitude": 31.06317109618102,
+        "gpsAddress": "121.40221048242013:31.06317109618102",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-54600118",
+        "telephones": [
+          "021-54600118"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1407/a34336ad5b7a62cb8c40bc91d0b0e5d0.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 14.410160581579248
+      },
+      {
+        "cinemaId": 7735,
+        "name": "新艺城国际影城",
+        "address": "上海市闵行区七莘路1507号怡丰城4楼",
+        "longitude": 121.370304,
+        "latitude": 31.136646,
+        "gpsAddress": "121.370304:31.136646",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-62965028",
+        "telephones": [
+          "021-62965028"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7735/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 14.629481475752673
+      },
+      {
+        "cinemaId": 1481,
+        "name": "中影星美国际影城上海周园店",
+        "address": "上海市周浦镇年家浜东路238号绿地缤纷广场3069室",
+        "longitude": 121.601004,
+        "latitude": 31.118987,
+        "gpsAddress": "121.601004:31.118987",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-38258653",
+        "telephones": [
+          "021-38258653"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1481/c4db34dd6d69efdd1b5357a3fbcfd9e8.png",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5800,
+        "Distance": 14.696923656053716
+      },
+      {
+        "cinemaId": 5344,
+        "name": "上海星逸国际影城",
+        "address": "上海市普陀区武威路1118号4楼402、403、404室",
+        "longitude": 121.35609776567642,
+        "latitude": 31.288043514415833,
+        "gpsAddress": "121.35609776567642:31.288043514415833",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310107,
+        "districtName": "普陀区",
+        "district": {
+          "districtId": 310107,
+          "name": "普陀区"
+        },
+        "phone": "13818493355",
+        "telephones": [
+          "13818493355"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5344/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 14.844605968676287
+      },
+      {
+        "cinemaId": 7734,
+        "name": "SFC上影国际影城(东川店)",
+        "address": "上海市闵行区东川路2088号置业广场3楼",
+        "longitude": 121.42574209650847,
+        "latitude": 31.020981673635543,
+        "gpsAddress": "121.42574209650847:31.020981673635543",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64986889",
+        "telephones": [
+          "021-64986889"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7734/b4103066c121151e16544d819133fc04.png",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 14.952850484261594
+      },
+      {
+        "cinemaId": 6877,
+        "name": "幸福蓝海国际影城(上海宝山龙湖店）",
+        "address": "上海市宝山区丹霞山路50弄1号4F-Z01",
+        "longitude": 121.36742,
+        "latitude": 31.366853,
+        "gpsAddress": "121.36742:31.366853",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-56021666",
+        "telephones": [
+          "021-56021666"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6877/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4650,
+        "Distance": 15.051274126875422
+      },
+      {
+        "cinemaId": 7724,
+        "name": "上海金汇影剧院",
+        "address": "奉贤区奉贤金汇镇中心路10号（近金汇镇社会事业服务中心）",
+        "longitude": 121.508453,
+        "latitude": 30.993368,
+        "gpsAddress": "121.508453:30.993368",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-57486105",
+        "telephones": [
+          "021-57486105"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7724/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 15.05218342049902
+      },
+      {
+        "cinemaId": 6386,
+        "name": "上海CGV星聚汇影城（七宝店）",
+        "address": "上海七宝万科广场5层L501单元上海市漕宝路3366号",
+        "longitude": 121.35763160077539,
+        "latitude": 31.161364552846695,
+        "gpsAddress": "121.35763160077539:31.161364552846695",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-63895036",
+        "telephones": [
+          "021-63895036"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6386/7a6c881e8de5feb90805ae20fa92ef32.png",
+        "businessTime": "10：00-22：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5700,
+        "Distance": 15.370507022439996
+      },
+      {
+        "cinemaId": 7743,
+        "name": "上海幸福蓝海影城(彩生活店)",
+        "address": "上海市闵行区莘福路288号1号楼5层",
+        "longitude": 121.36992827313865,
+        "latitude": 31.10918024967724,
+        "gpsAddress": "121.36992827313865:31.10918024967724",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64887901",
+        "telephones": [
+          "021-64887901"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7743/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 15.44295318562128
+      },
+      {
+        "cinemaId": 3024,
+        "name": "上海华士达影城浦江店",
+        "address": "闵行区江月路1850弄浦江城市生活广场4楼",
+        "longitude": 121.4191386006029,
+        "latitude": 31.017391210644327,
+        "gpsAddress": "121.4191386006029:31.017391210644327",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-34793015",
+        "telephones": [
+          "021-34793015"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3024/50ac956bd6cb000802ee56f246a295a2.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 15.486764546775913
+      },
+      {
+        "cinemaId": 1854,
+        "name": "SFC上影影城（七宝店）",
+        "address": "闵行区漕宝路3489号A栋8楼（汇宝百货8楼）",
+        "longitude": 121.35535835520906,
+        "latitude": 31.162532196817555,
+        "gpsAddress": "121.35535835520906:31.162532196817555",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64119772",
+        "telephones": [
+          "021-64119772"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1854/2c3a4f798fe582c222e989fc1e473966.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2500,
+        "Distance": 15.58743755515192
+      },
+      {
+        "cinemaId": 859,
+        "name": "上影国际影城江桥店",
+        "address": "嘉定区曹安公路2300弄288号新世界生活广场7号楼4楼",
+        "longitude": 121.34755595644654,
+        "latitude": 31.268042943818664,
+        "gpsAddress": "121.34755595644654:31.268042943818664",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69131369",
+        "telephones": [
+          "021-69131369"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/859/f4aa16d2f6f92d79b192f4c78b8ddfb0.tmp",
+        "businessTime": "",
+        "notice": "5号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 15.66134148642656
+      },
+      {
+        "cinemaId": 2413,
+        "name": "上海连城国际影城",
+        "address": "奉贤区沪杭公路228弄连城广场3号楼1、2楼",
+        "longitude": 121.436884,
+        "latitude": 30.995602,
+        "gpsAddress": "121.436884:30.995602",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-60137666",
+        "telephones": [
+          "021-60137666"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2413/8e341ab60ea5c99dfb6c00a496c57483.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 15.788983431147853
+      },
+      {
+        "cinemaId": 2722,
+        "name": "上海宝山宝龙横店电影城",
+        "address": "上海市宝山区杨南路2211号宝龙广场3楼",
+        "longitude": 121.365337,
+        "latitude": 31.394769,
+        "gpsAddress": "121.365337:31.394769",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66866311",
+        "telephones": [
+          "021-66866311"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2722/3df1843019ec35e030c9533c3037277d.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 16.04911590055486
+      },
+      {
+        "cinemaId": 861,
+        "name": "七宝大光明影城",
+        "address": "闵行区七莘路3655号凯德七宝购物广场3楼（家乐福楼上）",
+        "longitude": 121.34828260834983,
+        "latitude": 31.170915912642382,
+        "gpsAddress": "121.34828260834983:31.170915912642382",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64933338",
+        "telephones": [
+          "021-64933338"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/861/b4dd21085f5c2a8e07bde6d1d537f5a1.jpg",
+        "businessTime": "10:00-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 16.19173184348166
+      },
+      {
+        "cinemaId": 1917,
+        "name": "保利国际影城上海江川店",
+        "address": "上海市闵行区鹤庆路900号4幢三层",
+        "longitude": 121.41030299247122,
+        "latitude": 31.01165631103916,
+        "gpsAddress": "121.41030299247122:31.01165631103916",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-64508880",
+        "telephones": [
+          "021-64508880"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1917/6f7ceb05dc004a2dc145a114c36bf25c.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2500,
+        "Distance": 16.275664890005014
+      },
+      {
+        "cinemaId": 969,
+        "name": "上海世纪沪星影城",
+        "address": "上海市闵行区沪星路289弄28号C座4楼",
+        "longitude": 121.344985726518,
+        "latitude": 31.168451245848278,
+        "gpsAddress": "121.344985726518:31.168451245848278",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-62207766 ",
+        "telephones": [
+          "021-62207766 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/969/898349f2242c854bebce91b31de512a3.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2500,
+        "Distance": 16.584092764949396
+      },
+      {
+        "cinemaId": 3239,
+        "name": "上海珠影GCC影城",
+        "address": "上海市松江区新桥镇莘松路1266号亚繁亚乐城东区4楼",
+        "longitude": 121.35694999979172,
+        "latitude": 31.103498852554516,
+        "gpsAddress": "121.35694999979172:31.103498852554516",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-67651388",
+        "telephones": [
+          "021-67651388"
+        ],
+        "logoUrl": "https://pic.maizuo.com/usr/3239/6e094185e484ee5bb88f606bccb1dddf.png",
+        "businessTime": "周一至周四9:30-23:30，周六、日9：00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 16.851097389379195
+      },
+      {
+        "cinemaId": 5335,
+        "name": "上海中影红毯国际影城",
+        "address": "上海市浦东新区沪南公路5588号苏航生活广场3F（农工商超市旁）",
+        "longitude": 121.601889,
+        "latitude": 31.042941,
+        "gpsAddress": "121.601889:31.042941",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58070526",
+        "telephones": [
+          "021-58070526"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5335/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 17.47160588716287
+      },
+      {
+        "cinemaId": 5341,
+        "name": "上海明星时代影城(南翔店)",
+        "address": "上海市嘉定区丰翔路3168号3层",
+        "longitude": 121.331966,
+        "latitude": 31.305186,
+        "gpsAddress": "121.331966:31.305186",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69950619",
+        "telephones": [
+          "021-69950619"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5341/a68824bdd0e6a263348ee94762ab3516.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 17.660106670947567
+      },
+      {
+        "cinemaId": 5330,
+        "name": "上海泰日影剧院",
+        "address": "上海市奉贤区泰青公路318号",
+        "longitude": 121.57126775980295,
+        "latitude": 30.988437412951136,
+        "gpsAddress": "121.57126775980295:30.988437412951136",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-57580010",
+        "telephones": [
+          "021-57580010"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5330/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 17.790089401269146
+      },
+      {
+        "cinemaId": 573,
+        "name": "幸福蓝海国际影城(上海龙湖虹桥天街店)",
+        "address": "上海市闵行区申长路869号龙湖天街购物中心4层幸福蓝海影城",
+        "longitude": 121.32969387182165,
+        "latitude": 31.19109422874985,
+        "gpsAddress": "121.32969387182165:31.19109422874985",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-52961606",
+        "telephones": [
+          "021-52961606"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/573/c51188d89beda3c3221edd8bac4de6a1.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 17.93064985723479
+      },
+      {
+        "cinemaId": 826,
+        "name": "保利国际影城上海祥腾店",
+        "address": "上海嘉定区真南路4368弄1、2号中冶祥腾城市广场4层",
+        "longitude": 121.32841840825178,
+        "latitude": 31.30292708561131,
+        "gpsAddress": "121.32841840825178:31.30292708561131",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-32586016 ",
+        "telephones": [
+          "021-32586016 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/826/9b1778b497e49b5678916b115c59e953.jpg",
+        "businessTime": "10:00-22:00",
+        "notice": "自2017年9月1日起影城不提供免费3D眼镜，如观影需要需自备或到影城购买，祝您观影愉快！",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 18.025256512452376
+      },
+      {
+        "cinemaId": 972,
+        "name": "上影国际影城-南桥新都汇店",
+        "address": "上海市奉贤区环城东路681号4楼",
+        "longitude": 121.46903612190094,
+        "latitude": 30.940952922922943,
+        "gpsAddress": "121.46903612190094:30.940952922922943",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-37198707",
+        "telephones": [
+          "021-37198707"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/972/b05873f277d5f9cd6fec056f90e63ba9.jpg",
+        "businessTime": "",
+        "notice": "5号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 18.038368936930578
+      },
+      {
+        "cinemaId": 2022,
+        "name": "上海佰迦乐大光明影城新南店",
+        "address": "上海市松江区新桥镇新南路新南路1号 绿地金御广场4楼",
+        "longitude": 121.34560794950747,
+        "latitude": 31.09446778907165,
+        "gpsAddress": "121.34560794950747:31.09446778907165",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-57648800",
+        "telephones": [
+          "021-57648800"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2022/11628062c50f78a14b27d9a44fd6fd5b.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 18.20642192604473
+      },
+      {
+        "cinemaId": 5349,
+        "name": "上海满丰国际影城",
+        "address": "上海市嘉定区南翔镇槎溪路888号1号",
+        "longitude": 121.326063,
+        "latitude": 31.297987,
+        "gpsAddress": "121.326063:31.297987",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-65637222",
+        "telephones": [
+          "021-65637222"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5349/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 18.236843032693283
+      },
+      {
+        "cinemaId": 2589,
+        "name": "上海市奉贤区横店电影城",
+        "address": "上海市奉贤区环城东路与航南公路交叉口宝龙城市广场4楼横店电影城",
+        "longitude": 121.4680310689506,
+        "latitude": 30.93646023070757,
+        "gpsAddress": "121.4680310689506:30.93646023070757",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-60133798",
+        "telephones": [
+          "021-60133798"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2589/287d24415747c2c2f2c2eecff72ee550.tmp",
+        "businessTime": "周一至周五10:00-23:00 周六至周日10:00-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 18.31069023315944
+      },
+      {
+        "cinemaId": 7722,
+        "name": "X·cinema影城(上坤上街店)",
+        "address": "宝山区塘西街299弄4号楼2层252室",
+        "longitude": 121.349245,
+        "latitude": 31.425114,
+        "gpsAddress": "121.349245:31.425114",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-66865288",
+        "telephones": [
+          "021-66865288"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7722/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 18.50646299592007
+      },
+      {
+        "cinemaId": 5346,
+        "name": "上海星轶IMAX国际影城(九亭店)",
+        "address": "上海市松江区九亭镇蒲汇路178弄九亭U天地2楼",
+        "longitude": 121.330667,
+        "latitude": 31.144479,
+        "gpsAddress": "121.330667:31.144479",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37690033",
+        "telephones": [
+          "021-37690033"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5346/2d9064b656478d65d562f498875715d8.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 18.526688630165317
+      },
+      {
+        "cinemaId": 2966,
+        "name": "英皇UA电影城上海虹桥天地",
+        "address": "上海闵行区申长路688号虹桥天地购物中心6层(近舟虹路) ",
+        "longitude": 121.32190446711742,
+        "latitude": 31.201842587950658,
+        "gpsAddress": "121.32190446711742:31.201842587950658",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "020-85111688",
+        "telephones": [
+          "020-85111688"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2966/75f217434c676a6f77b44d7ab2e5162b.tmp",
+        "businessTime": "10:00-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 18.681227713767324
+      },
+      {
+        "cinemaId": 5331,
+        "name": "上海苏宁影院(苏宁生活广场店)",
+        "address": "上海市奉贤区望园南路苏宁生活广场",
+        "longitude": 121.495291,
+        "latitude": 30.923976,
+        "gpsAddress": "121.495291:30.923976",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-37538890",
+        "telephones": [
+          "021-37538890"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5331/c0c3d6959f746cf3567541771f38102e.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4400,
+        "Distance": 18.927537686566428
+      },
+      {
+        "cinemaId": 5354,
+        "name": "上海JIA(嘉莱影城九亭店)",
+        "address": "上海市松江区地铁九号线九亭站地铁二号口内（地下一层）",
+        "longitude": 121.326412,
+        "latitude": 31.142969,
+        "gpsAddress": "121.326412:31.142969",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-61920869",
+        "telephones": [
+          "021-61920869"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5354/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 1800,
+        "Distance": 19.002913887052696
+      },
+      {
+        "cinemaId": 1915,
+        "name": "保利国际影城上海曹路宝龙店",
+        "address": "上海市浦东新区金海路2505弄宝龙城市广场5楼",
+        "longitude": 121.65842994099525,
+        "latitude": 31.271514573046336,
+        "gpsAddress": "121.65842994099525:31.271514573046336",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-62723868",
+        "telephones": [
+          "021-62723868"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1915/6f7ceb05dc004a2dc145a114c36bf25c.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 19.02801841869449
+      },
+      {
+        "cinemaId": 251,
+        "name": "海上国际影城-南桥百联",
+        "address": "上海市奉贤区南桥镇百齐路288号百联南桥购物中心二期四楼",
+        "longitude": 121.49028668497729,
+        "latitude": 30.92179601724697,
+        "gpsAddress": "121.49028668497729:30.92179601724697",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-37569530/021-37569537",
+        "telephones": [
+          "021-37569530/021-37569537"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/251/763b2b651d16a6dca6b1d355f40522e1.jpg",
+        "businessTime": "周一至周四10:30-21:30周五至周日10:30-22:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 19.036908667671707
+      },
+      {
+        "cinemaId": 7761,
+        "name": "华夏万幕国际影城(贝尚坊巨幕店)",
+        "address": "上海松江区九亭镇沪亭北路350弄3号3层01-A",
+        "longitude": 121.32441190010097,
+        "latitude": 31.151520509689373,
+        "gpsAddress": "121.32441190010097:31.151520509689373",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37630298",
+        "telephones": [
+          "021-37630298"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7761/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 19.06036960043026
+      },
+      {
+        "cinemaId": 2976,
+        "name": "中影星美国际影城上海周祝店",
+        "address": "上海浦东新区周祝公路268弄绿地乐和城1号3楼",
+        "longitude": 121.644574,
+        "latitude": 31.109609,
+        "gpsAddress": "121.644574:31.109609",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-2098811",
+        "telephones": [
+          "021-2098811"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2976/0d6852a74bfa0fa986ace85feabd96f3.png",
+        "businessTime": "周一至周五10：30-24：00 周六/日 10：00-24：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 6000,
+        "Distance": 19.24369189102233
+      },
+      {
+        "cinemaId": 3716,
+        "name": "上海耀莱成龙国际影城（虹桥店）",
+        "address": "上海市闵行区申滨路473号新华联购物中心L2-201、202",
+        "longitude": 121.3164627299652,
+        "latitude": 31.200223945228696,
+        "gpsAddress": "121.3164627299652:31.200223945228696",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-80316408 ",
+        "telephones": [
+          "021-80316408 "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3716/5b8ca990ed994d41d55e626804a84039.jpg",
+        "businessTime": "10:00-24：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 19.29418794524468
+      },
+      {
+        "cinemaId": 5348,
+        "name": "上海大光明丽星影城(奉贤店)",
+        "address": "上海市奉贤区南中路80号金叶广场5F",
+        "longitude": 121.46572802741971,
+        "latitude": 30.919770417576043,
+        "gpsAddress": "121.46572802741971:30.919770417576043",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-57188353",
+        "telephones": [
+          "021-57188353"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5348/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5500,
+        "Distance": 19.304557814324834
+      },
+      {
+        "cinemaId": 6858,
+        "name": "上海SFC上影影城（唐镇阳光天地店）",
+        "address": "上海市浦东新区高科东路777弄1号3层L306",
+        "longitude": 121.664303,
+        "latitude": 31.22126,
+        "gpsAddress": "121.664303:31.22126",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-26015673",
+        "telephones": [
+          "021-26015673"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6858/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "上午10:00",
+        "notice": "6号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 19.704385054089588
+      },
+      {
+        "cinemaId": 4085,
+        "name": "上海比高电影城(南翔店)",
+        "address": "上海嘉定沪宜公路1082号5幢1层",
+        "longitude": 121.310013,
+        "latitude": 31.30174,
+        "gpsAddress": "121.310013:31.30174",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69927666",
+        "telephones": [
+          "021-69927666"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4085/e3a14480d5632130ed69237254584733.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 20.035644130533285
+      },
+      {
+        "cinemaId": 5133,
+        "name": "上海金海影城",
+        "address": "上海市浦东新区曹路镇金群路28号4楼",
+        "longitude": 121.673712,
+        "latitude": 31.297322,
+        "gpsAddress": "121.673712:31.297322",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68881033",
+        "telephones": [
+          "021-68881033"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5133/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 20.874233960695708
+      },
+      {
+        "cinemaId": 5339,
+        "name": "上海7+影城(华漕店)",
+        "address": "上海市闵行区区华漕生活馆3楼（繁兴路399弄1号，保乐路纪翟路口，大润发旁）",
+        "longitude": 121.298116,
+        "latitude": 31.215469,
+        "gpsAddress": "121.298116:31.215469",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-61856858",
+        "telephones": [
+          "021-61856858"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5339/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 21.216746340907044
+      },
+      {
+        "cinemaId": 7721,
+        "name": "唐德国际影城",
+        "address": "上海市宝山区罗泾镇萧月路7-11（单）3层",
+        "longitude": 121.33649,
+        "latitude": 31.491809,
+        "gpsAddress": "121.33649:31.491809",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310113,
+        "districtName": "宝山区",
+        "district": {
+          "districtId": 310113,
+          "name": "宝山区"
+        },
+        "phone": "021-56575590",
+        "telephones": [
+          "021-56575590"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7721/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 21.960797082160916
+      },
+      {
+        "cinemaId": 966,
+        "name": "上海金球国际影城",
+        "address": "上海市浦东新区唐镇上丰路1810号恒生商业广场B4幢",
+        "longitude": 121.68531265863601,
+        "latitude": 31.247408454530117,
+        "gpsAddress": "121.68531265863601:31.247408454530117",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58586900",
+        "telephones": [
+          "021-58586900"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/966/68d9e338e538f0e100f9d1294cb6bf2f.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4200,
+        "Distance": 21.9761716584257
+      },
+      {
+        "cinemaId": 970,
+        "name": "华夏丰尚国际影城",
+        "address": "上海市闵行区华漕镇运乐路569弄3号310单元",
+        "longitude": 121.28796219105011,
+        "latitude": 31.209097504665653,
+        "gpsAddress": "121.28796219105011:31.209097504665653",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310112,
+        "districtName": "闵行区",
+        "district": {
+          "districtId": 310112,
+          "name": "闵行区"
+        },
+        "phone": "021-54411587",
+        "telephones": [
+          "021-54411587"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/970/24f3bb93ebe19d91a93b22d8f80db1fa.gif",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4200,
+        "Distance": 22.377802256980004
+      },
+      {
+        "cinemaId": 5109,
+        "name": "星美影商城（上海青浦店）",
+        "address": "上海市青浦区沪青平公路1819号永业购物中心3楼星美国际影城",
+        "longitude": 121.29030056203838,
+        "latitude": 31.17434866314471,
+        "gpsAddress": "121.29030056203838:31.17434866314471",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-61739976",
+        "telephones": [
+          "021-61739976"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5109/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "09:30 - 24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 22.420221665737373
+      },
+      {
+        "cinemaId": 5325,
+        "name": "上海环球国际影城(崇明店)",
+        "address": "上海市崇明区堡镇中路193号",
+        "longitude": 121.62658099973243,
+        "latitude": 31.54383791942655,
+        "gpsAddress": "121.62658099973243:31.54383791942655",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310151,
+        "districtName": "崇明区",
+        "district": {
+          "districtId": 310151,
+          "name": "崇明区"
+        },
+        "phone": "021-59426200",
+        "telephones": [
+          "021-59426200"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5325/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 23.08795960132713
+      },
+      {
+        "cinemaId": 5336,
+        "name": "上海卢米埃影城(大融城店)",
+        "address": "上海市嘉定区宝安公路3386号大融城4楼卢米埃影城",
+        "longitude": 121.285392,
+        "latitude": 31.335959,
+        "gpsAddress": "121.285392:31.335959",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-55520668",
+        "telephones": [
+          "021-55520668"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5336/4931d2acca6c82bbb0d63ebc9bb5e288.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 23.097855530510515
+      },
+      {
+        "cinemaId": 7757,
+        "name": "珠影沪亚国际影城(西虹桥店)",
+        "address": "上海青浦区徐泾镇沪青平公路1899号A幢401室",
+        "longitude": 121.28414502144656,
+        "latitude": 31.172439884758983,
+        "gpsAddress": "121.28414502144656:31.172439884758983",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-33885599",
+        "telephones": [
+          "021-33885599"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7757/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 23.113855055630935
+      },
+      {
+        "cinemaId": 8616,
+        "name": "星美影商城（上海奉贤佳源店）",
+        "address": "上海市奉贤区金海公路99弄奉贤佳缘广场28号4-5层",
+        "longitude": 121.519386,
+        "latitude": 30.855098,
+        "gpsAddress": "121.519386:30.855098",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "（021)37580685",
+        "telephones": [
+          "（021)37580685"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/8616/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 23.189198970098623
+      },
+      {
+        "cinemaId": 7730,
+        "name": "上海柘林影剧院",
+        "address": "上海市奉贤区钦林北路31号",
+        "longitude": 121.479964,
+        "latitude": 30.836692,
+        "gpsAddress": "121.479964:30.836692",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310120,
+        "districtName": "奉贤区",
+        "district": {
+          "districtId": 310120,
+          "name": "奉贤区"
+        },
+        "phone": "021-57446595",
+        "telephones": [
+          "021-57446595"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7730/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3800,
+        "Distance": 23.9962485561202
+      },
+      {
+        "cinemaId": 4067,
+        "name": "上海崇明影剧院",
+        "address": "上海市崇明县八一路488号",
+        "longitude": 121.40345373724593,
+        "latitude": 31.63199681623542,
+        "gpsAddress": "121.40345373724593:31.63199681623542",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310151,
+        "districtName": "崇明区",
+        "district": {
+          "districtId": 310151,
+          "name": "崇明区"
+        },
+        "phone": "021-59622776",
+        "telephones": [
+          "021-59622776"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4067/473918472dd73533fd0c81e6ebc2ad3b.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4800,
+        "Distance": 24.1384902082827
+      },
+      {
+        "cinemaId": 2000,
+        "name": "上海美亚影城",
+        "address": "上海市嘉定区宝安公路3718号永润星辰3楼",
+        "longitude": 121.27509153649989,
+        "latitude": 31.33243324956047,
+        "gpsAddress": "121.27509153649989:31.33243324956047",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-31118506",
+        "telephones": [
+          "021-31118506"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2000/5c05be76c74f5c22870f9b592f0b2121.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 24.176454536630146
+      },
+      {
+        "cinemaId": 7740,
+        "name": "珠影沪亚国际影城(松江店)",
+        "address": "上海市松江区车墩镇南乐路456号4幢4层",
+        "longitude": 121.30203435616909,
+        "latitude": 31.03088716877867,
+        "gpsAddress": "121.30203435616909:31.03088716877867",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-33550055",
+        "telephones": [
+          "021-33550055"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7740/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 24.255125456451267
+      },
+      {
+        "cinemaId": 5314,
+        "name": "上海川沙影剧院",
+        "address": "川沙镇新川路400号（近川沙路）",
+        "longitude": 121.70502075659238,
+        "latitude": 31.199603710777353,
+        "gpsAddress": "121.70502075659238:31.199603710777353",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-58982228",
+        "telephones": [
+          "021-58982228"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5314/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 24.34204362242961
+      },
+      {
+        "cinemaId": 5134,
+        "name": "SFC上影影城（川沙百联店）",
+        "address": "上海市浦东新区川沙路5398号4楼",
+        "longitude": 121.704947,
+        "latitude": 31.189631,
+        "gpsAddress": "121.704947:31.189631",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021—50969811",
+        "telephones": [
+          "021—50969811"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5134/ce57110e020c539159d65b74acdac80d.jpg",
+        "businessTime": "10:00 - 23:00",
+        "notice": "5号厅为特殊厅儿童需买票",
+        "isVisited": 0,
+        "lowPrice": 4700,
+        "Distance": 24.409812069253487
+      },
+      {
+        "cinemaId": 827,
+        "name": "中影数字国际影城川沙店",
+        "address": "上海浦东新区川沙路5558号绿地东海岸广场6-7号楼3F",
+        "longitude": 121.70556433293444,
+        "latitude": 31.188882710595493,
+        "gpsAddress": "121.70556433293444:31.188882710595493",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-38683900 / 021-38683901   ",
+        "telephones": [
+          "021-38683900 / 021-38683901   "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/827/08201d2cee934a84afc8b0671d9b06c6.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 24.484069497814897
+      },
+      {
+        "cinemaId": 6861,
+        "name": "上海松江区QCC激光影城",
+        "address": "上海市松江区叶榭镇叶政路487号双高广场3楼",
+        "longitude": 121.324789,
+        "latitude": 30.948705,
+        "gpsAddress": "121.324789:30.948705",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-67801011",
+        "telephones": [
+          "021-67801011"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6861/a9fb1b2fabf26fb26bede32b0dc52130.jpg",
+        "businessTime": "9:30-22:00",
+        "notice": "2018年4月13日上映的电影《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 25.168735061656648
+      },
+      {
+        "cinemaId": 3414,
+        "name": "上海嘉定宝龙横店电影城",
+        "address": "上海市嘉定区嘉定新城阿克苏路1099号宝龙城市广场4层横店电影城",
+        "longitude": 121.267837,
+        "latitude": 31.351099,
+        "gpsAddress": "121.267837:31.351099",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-60675900",
+        "telephones": [
+          "021-60675900"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3414/287d24415747c2c2f2c2eecff72ee550.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 25.19969421644334
+      },
+      {
+        "cinemaId": 5329,
+        "name": "上海喜满客影院(上海台北风情街店)",
+        "address": "上海市嘉定区白银路228弄39号301",
+        "longitude": 121.266898,
+        "latitude": 31.35878,
+        "gpsAddress": "121.266898:31.35878",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-59160513",
+        "telephones": [
+          "021-59160513"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5329/daac2474026e3199f8790c577fff03f1.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 25.408952630993014
+      },
+      {
+        "cinemaId": 7752,
+        "name": "上海星蓝影城",
+        "address": "上海崇明区长兴镇丰福路599弄186号213-3",
+        "longitude": 121.71133131686776,
+        "latitude": 31.389469580133234,
+        "gpsAddress": "121.71133131686776:31.389469580133234",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310151,
+        "districtName": "崇明区",
+        "district": {
+          "districtId": 310151,
+          "name": "崇明区"
+        },
+        "phone": "021-66858069",
+        "telephones": [
+          "021-66858069"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7752/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4600,
+        "Distance": 26.18415605495632
+      },
+      {
+        "cinemaId": 7413,
+        "name": "中影国际影城上海嘉定店",
+        "address": "上海市嘉定区胜竹路2050号三楼",
+        "longitude": 121.25838491700593,
+        "latitude": 31.407823357635582,
+        "gpsAddress": "121.25838491700593:31.407823357635582",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-39510102",
+        "telephones": [
+          "021-39510102"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7413/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4100,
+        "Distance": 27.153682217601244
+      },
+      {
+        "cinemaId": 4007,
+        "name": "上海美影国际影城（嘉定商城店）",
+        "address": "上海市嘉定区清河路48号（嘉定商场5楼）近城中路",
+        "longitude": 121.25464900012805,
+        "latitude": 31.390261891012198,
+        "gpsAddress": "121.25464900012805:31.390261891012198",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69521050",
+        "telephones": [
+          "021-69521050"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4007/8e3b365209681ae4ccd1f9d9f2708d84.png",
+        "businessTime": "10:00—23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3690,
+        "Distance": 27.222391894736955
+      },
+      {
+        "cinemaId": 990,
+        "name": "嘉定影剧院",
+        "address": "嘉定区城中路149号（近人民街）",
+        "longitude": 121.25416143493115,
+        "latitude": 31.38920936073071,
+        "gpsAddress": "121.25416143493115:31.38920936073071",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-59531306",
+        "telephones": [
+          "021-59531306"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/990/E84D36694BBFED16C225B452D67B8433.jpg",
+        "businessTime": "9:00-21:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 27.255924880857208
+      },
+      {
+        "cinemaId": 1892,
+        "name": "上海世纪天虹影城",
+        "address": "上海市青浦区华新镇华强街239号三楼(华新中学对面)",
+        "longitude": 121.23717379412699,
+        "latitude": 31.246865796301012,
+        "gpsAddress": "121.23717379412699:31.246865796301012",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-69789962",
+        "telephones": [
+          "021-69789962"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1892/662cd67ffd04598d0219dd662991ca61.tmp",
+        "businessTime": "021-69789962",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 27.91097327437753
+      },
+      {
+        "cinemaId": 6667,
+        "name": "上影青浦时光国际影城",
+        "address": "上海青浦区华志路789号新尚生活广场5楼",
+        "longitude": 121.23253,
+        "latitude": 31.237339,
+        "gpsAddress": "121.23253:31.237339",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-32583818",
+        "telephones": [
+          "021-32583818"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6667/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 28.435850835074113
+      },
+      {
+        "cinemaId": 192,
+        "name": "星美影商城（上海松江店）",
+        "address": "上海市松江区环城路555号玩库商城3楼",
+        "longitude": 121.26070797647077,
+        "latitude": 31.01605563401106,
+        "gpsAddress": "121.26070797647077:31.01605563401106",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37770608-802",
+        "telephones": [
+          "021-37770608-802"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/192/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "9:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 28.67300287653648
+      },
+      {
+        "cinemaId": 3142,
+        "name": "上海米格影城",
+        "address": "上海市青浦区嘉松中路5999弄51号米格天地3楼",
+        "longitude": 121.2346192414262,
+        "latitude": 31.158382221820794,
+        "gpsAddress": "121.2346192414262:31.158382221820794",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-39293336",
+        "telephones": [
+          "021-39293336"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/3142/cd95dd5147154fe0eca6a8db5412db20.png",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5000,
+        "Distance": 28.681332249749993
+      },
+      {
+        "cinemaId": 6694,
+        "name": "上海DFC影城（松江店）",
+        "address": "上海市松江区光星路1399号3楼",
+        "longitude": 121.247355,
+        "latitude": 31.062422,
+        "gpsAddress": "121.247355:31.062422",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-57896576",
+        "telephones": [
+          "021-57896576"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6694/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 28.88091090721028
+      },
+      {
+        "cinemaId": 1298,
+        "name": "横店电影城上海嘉定店",
+        "address": "上海市嘉定区嘉松北路春归路口嘉实生活广场3层（老宅对面，同济大学东边）",
+        "longitude": 121.229386857068,
+        "latitude": 31.293866305407256,
+        "gpsAddress": "121.229386857068:31.293866305407256",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-59557951",
+        "telephones": [
+          "021-59557951"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1298/287d24415747c2c2f2c2eecff72ee550.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 28.893784623977325
+      },
+      {
+        "cinemaId": 5333,
+        "name": "上海比高电影城(江镇店)",
+        "address": "上海市浦东新区祝桥镇江晖路409弄55-65号第2层",
+        "longitude": 121.746772,
+        "latitude": 31.177373,
+        "gpsAddress": "121.746772:31.177373",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-60751886",
+        "telephones": [
+          "021-60751886"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5333/3b9b018d4d7b6557f3c03e628673204c.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4300,
+        "Distance": 29.120492188471108
+      },
+      {
+        "cinemaId": 2473,
+        "name": "上海松江麦希国际影城",
+        "address": "上海市松江区中山中路71号平高世贸广场4楼",
+        "longitude": 121.24189830978716,
+        "latitude": 31.01245231639855,
+        "gpsAddress": "121.24189830978716:31.01245231639855",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-33559501",
+        "telephones": [
+          "021-33559501"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2473/e86a3a9f904b2c37370fdf4317e95c4f.tmp",
+        "businessTime": "周一至周五10:30-23:00；周六、周日10:00-00:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 30.627144962698292
+      },
+      {
+        "cinemaId": 496,
+        "name": "上海左岸国际影城松江店",
+        "address": "上海市松江区松汇中路568号鹿都国际购物广场四楼",
+        "longitude": 121.24110607888672,
+        "latitude": 31.01044723540369,
+        "gpsAddress": "121.24110607888672:31.01044723540369",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-57826399",
+        "telephones": [
+          "021-57826399"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/496/4c7b1d27d0c49811710d9c8dc8f6060c.tmp",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 30.758018746056702
+      },
+      {
+        "cinemaId": 5104,
+        "name": "上海太禾影院松江店",
+        "address": "上海市松江区九峰路118号平高广场4层401室",
+        "longitude": 121.237639,
+        "latitude": 31.022178,
+        "gpsAddress": "121.237639:31.022178",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37890262",
+        "telephones": [
+          "021-37890262"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5104/3078e764e06068a22812d5a055ab038c.jpg",
+        "businessTime": "08:30 - 03:30(第二天凌晨)",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4190,
+        "Distance": 30.806735859855362
+      },
+      {
+        "cinemaId": 4941,
+        "name": "上海中影数字圣谛影城",
+        "address": "上海市浦东新区惠南镇沪南公路9858号禹洲商业广场3层",
+        "longitude": 121.74479579231905,
+        "latitude": 31.04591190364272,
+        "gpsAddress": "121.74479579231905:31.04591190364272",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-20961166",
+        "telephones": [
+          "021-20961166"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4941/44fb7c5c613cadd337bf909fca5954ad.jpg",
+        "businessTime": "10:00-24:00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 5100,
+        "Distance": 30.959692291792354
+      },
+      {
+        "cinemaId": 2412,
+        "name": "金逸院线上海施湾影城",
+        "address": "上海浦东新区施新路802弄1号4层（绿地东海岸时代广场）",
+        "longitude": 121.76388016442084,
+        "latitude": 31.153233035802238,
+        "gpsAddress": "121.76388016442084:31.153233035802238",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-50876387",
+        "telephones": [
+          "021-50876387"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2412/4e2e3d6e5177d8f7dfa6dfb169cadf08.tmp",
+        "businessTime": "09:30-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 31.228163142029516
+      },
+      {
+        "cinemaId": 824,
+        "name": "开元地中海影剧院",
+        "address": "上海松江区新松江路927弄4042室（乐购超市4楼）",
+        "longitude": 121.22452968953144,
+        "latitude": 31.044717965735764,
+        "gpsAddress": "121.22452968953144:31.044717965735764",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37793999  ",
+        "telephones": [
+          "021-37793999  "
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/824/6352761e5f87aa8e002164ff59f1f177.jpg",
+        "businessTime": "9:30-24：00",
+        "notice": "2018年4月13日上映的影片《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 3600,
+        "Distance": 31.619628191117272
+      },
+      {
+        "cinemaId": 1791,
+        "name": "上海太平洋电影城松江店",
+        "address": "上海市松江区文诚路500弄1号4楼",
+        "longitude": 121.22325883067562,
+        "latitude": 31.038908150686204,
+        "gpsAddress": "121.22325883067562:31.038908150686204",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-57731360 \t",
+        "telephones": [
+          "021-57731360 \t"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1791/cd4e4d50c8b5b76229aa8782a9a0e22f.tmp",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3000,
+        "Distance": 31.87781271198833
+      },
+      {
+        "cinemaId": 7758,
+        "name": "木槿校园影城(工技大店)",
+        "address": "上海松江区龙腾路333号上海工程技术大学校内师生活动中心1-2层",
+        "longitude": 121.21553822449549,
+        "latitude": 31.063374482529362,
+        "gpsAddress": "121.21553822449549:31.063374482529362",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "18016267898",
+        "telephones": [
+          "18016267898"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7758/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2300,
+        "Distance": 32.17196433931801
+      },
+      {
+        "cinemaId": 7755,
+        "name": "上岸影城(金山店)",
+        "address": "上海金山区杭州湾大道1878弄135号（金山红星国际广场一楼）",
+        "longitude": 121.351808,
+        "latitude": 30.754151,
+        "gpsAddress": "121.351808:30.754151",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-67969996",
+        "telephones": [
+          "021-67969996"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7755/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 32.47611562315198
+      },
+      {
+        "cinemaId": 4711,
+        "name": "上海DFC影城（金山店）",
+        "address": "上海市金山区海汇街500号4楼",
+        "longitude": 121.34730619158255,
+        "latitude": 30.75144276359529,
+        "gpsAddress": "121.34730619158255:30.75144276359529",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-67296656",
+        "telephones": [
+          "021-67296656"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4711/47e18e7b54ea246657f7dda498f70932.jpg",
+        "businessTime": "09：30 -23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 32.84935000147512
+      },
+      {
+        "cinemaId": 7754,
+        "name": "红石影城(惠南店)",
+        "address": "上海惠南镇东门大街200号4楼",
+        "longitude": 121.76664100489724,
+        "latitude": 31.052601943742946,
+        "gpsAddress": "121.76664100489724:31.052601943742946",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68011061",
+        "telephones": [
+          "021-68011061"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7754/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 33.082859399824635
+      },
+      {
+        "cinemaId": 416,
+        "name": "星美影商城（上海金山百联店）",
+        "address": "上海市金山区板桥西路189号金山百联购物中心3楼",
+        "longitude": 121.3531322795269,
+        "latitude": 30.738085540939945,
+        "gpsAddress": "121.3531322795269:30.738085540939945",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "(021)67229998",
+        "telephones": [
+          "(021)67229998"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/416/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "9:00-00:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3100,
+        "Distance": 33.23729702562992
+      },
+      {
+        "cinemaId": 4514,
+        "name": "SFC上影影城（百联惠南店）",
+        "address": "上海市浦东新区惠南镇城东路388号",
+        "longitude": 121.77025085636875,
+        "latitude": 31.05891736924562,
+        "gpsAddress": "121.77025085636875:31.05891736924562",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-68020097转8002",
+        "telephones": [
+          "021-68020097转8002"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4514/50c9ac9aa30931a36fa313bf87b36407.png",
+        "businessTime": "10:00-22:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 33.33562063709007
+      },
+      {
+        "cinemaId": 2474,
+        "name": "上海松江麦希飞航影院",
+        "address": "上海松江区玉树路2575号飞航广场2楼",
+        "longitude": 121.211129648273,
+        "latitude": 31.016154983180027,
+        "gpsAddress": "121.211129648273:31.016154983180027",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-33550032",
+        "telephones": [
+          "021-33550032"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2474/e86a3a9f904b2c37370fdf4317e95c4f.tmp",
+        "businessTime": "周一至周五12:00-23:30；周六、周日10:30-23:30",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 33.635510747700664
+      },
+      {
+        "cinemaId": 5321,
+        "name": "上海博纳锦鸿国际影城(松江荣乐店)",
+        "address": "荣乐西路新理想广场4楼（荣乐西路三新北路）",
+        "longitude": 121.20370123572272,
+        "latitude": 31.023040642526805,
+        "gpsAddress": "121.20370123572272:31.023040642526805",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310117,
+        "districtName": "松江区",
+        "district": {
+          "districtId": 310117,
+          "name": "松江区"
+        },
+        "phone": "021-37685911",
+        "telephones": [
+          "021-37685911"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5321/77f487b1a3199265eaa974057958b62e.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 34.23954248313744
+      },
+      {
+        "cinemaId": 7756,
+        "name": "木槿校园影城(工商外店)",
+        "address": "上海浦东新区惠南镇勤奋路89号上海工商外国语职业学院中校区艺术设计系（3号楼）1层",
+        "longitude": 121.78962136841955,
+        "latitude": 31.05409782128272,
+        "gpsAddress": "121.78962136841955:31.05409782128272",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "13795223617",
+        "telephones": [
+          "13795223617"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7756/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 35.466377255974486
+      },
+      {
+        "cinemaId": 4043,
+        "name": "CGV星聚汇影城（上海安亭店）",
+        "address": "上海市嘉定区安亭镇墨玉南路1055号嘉亭荟城市生活广场3楼",
+        "longitude": 121.16885735646589,
+        "latitude": 31.29416298541117,
+        "gpsAddress": "121.16885735646589:31.29416298541117",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69503456",
+        "telephones": [
+          "021-69503456"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4043/7a6c881e8de5feb90805ae20fa92ef32.png",
+        "businessTime": "10：00-凌晨01：00",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4600,
+        "Distance": 35.61098796840218
+      },
+      {
+        "cinemaId": 7729,
+        "name": "幕画国际影院(安亭店)",
+        "address": "上海市嘉定区曹安公路5608号安亭财富广场1楼（香天下火锅楼下）",
+        "longitude": 121.16808457118482,
+        "latitude": 31.295893554162014,
+        "gpsAddress": "121.16808457118482:31.295893554162014",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310114,
+        "districtName": "嘉定区",
+        "district": {
+          "districtId": 310114,
+          "name": "嘉定区"
+        },
+        "phone": "021-69130592",
+        "telephones": [
+          "021-69130592"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7729/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 35.7042301218053
+      },
+      {
+        "cinemaId": 2616,
+        "name": "上海青浦永乐国际影城青湖东路2店",
+        "address": "上海市青浦区青湖东路900号3楼（麦德龙3楼）",
+        "longitude": 121.15248236810427,
+        "latitude": 31.151508116113906,
+        "gpsAddress": "121.15248236810427:31.151508116113906",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-39292190-8052",
+        "telephones": [
+          "021-39292190-8052"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/2616/b159a60c22f04dd20e1727ac70f27b97.tmp",
+        "businessTime": "9:00-22:00",
+        "notice": "2018年4月13日上线的影片《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 37.76363189247321
+      },
+      {
+        "cinemaId": 7745,
+        "name": "SFC上影国际影城(青浦店)",
+        "address": "上海市青浦区公园东路1289弄富绅商业中心广场二楼203-211",
+        "longitude": 121.1440425560752,
+        "latitude": 31.158199990656932,
+        "gpsAddress": "121.1440425560752:31.158199990656932",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-31333988",
+        "telephones": [
+          "021-31333988"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7745/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2400,
+        "Distance": 38.63808559092958
+      },
+      {
+        "cinemaId": 5340,
+        "name": "上海0090激光影城",
+        "address": "上海市金山区朱泾镇乐购超市一楼",
+        "longitude": 121.181227,
+        "latitude": 30.899574,
+        "gpsAddress": "121.181227:30.899574",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-67329808",
+        "telephones": [
+          "021-67329808"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5340/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2600,
+        "Distance": 39.686235198626264
+      },
+      {
+        "cinemaId": 4047,
+        "name": "上海大光明影城(朱泾店)",
+        "address": "上海市朱泾人民路160号图书影视商厦6楼（近人民路）",
+        "longitude": 121.172938,
+        "latitude": 30.902192,
+        "gpsAddress": "121.172938:30.902192",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-37210858",
+        "telephones": [
+          "021-37210858"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4047/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2800,
+        "Distance": 40.4059709842772
+      },
+      {
+        "cinemaId": 5112,
+        "name": "星美影商城（上海金上海店）",
+        "address": "上海市金山区朱泾镇金龙新街528弄7105号金上海生活广场",
+        "longitude": 121.174597,
+        "latitude": 30.892736,
+        "gpsAddress": "121.174597:30.892736",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-67310076",
+        "telephones": [
+          "021-67310076"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5112/9eae37a257dd25d0aaa0b3d7593e7e0b.jpg",
+        "businessTime": "周一-周五（12:00-24:00） 周六-周日（09:30-24:00）",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 0,
+        "Distance": 40.52198204340934
+      },
+      {
+        "cinemaId": 4070,
+        "name": "上海青浦永乐国际影城青松路1店",
+        "address": "上海市青浦区青松路37号",
+        "longitude": 121.123124361546,
+        "latitude": 31.153244902085802,
+        "gpsAddress": "121.123124361546:31.153244902085802",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-39292190",
+        "telephones": [
+          "021-39292190"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/4070/b3cd5124fc6abc5773f3908bdd1971b8.jpg",
+        "businessTime": "9:00-22:00",
+        "notice": "2018年4月13日上映的影片《湮灭》，小学生及学龄前儿童应在家长陪同下观看。",
+        "isVisited": 0,
+        "lowPrice": 5900,
+        "Distance": 40.98382287253284
+      },
+      {
+        "cinemaId": 7732,
+        "name": "明星时代影城(青浦世纪联华店)",
+        "address": "青浦区盈港路555号3楼",
+        "longitude": 121.120422,
+        "latitude": 31.165074,
+        "gpsAddress": "121.120422:31.165074",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-31826187",
+        "telephones": [
+          "021-31826187"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7732/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3400,
+        "Distance": 41.19550580202593
+      },
+      {
+        "cinemaId": 7808,
+        "name": "中影国际影城上海富绅时代广场店 ",
+        "address": "上海青浦盈港路1616弄18号富绅时代广场306室\t",
+        "longitude": 121.10412,
+        "latitude": 31.167197,
+        "gpsAddress": "121.10412:31.167197",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-39220720\t",
+        "telephones": [
+          "021-39220720\t"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7808/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4500,
+        "Distance": 42.98423980859071
+      },
+      {
+        "cinemaId": 5318,
+        "name": "上海大光明新国际影城(青浦吾悦店)",
+        "address": "淀山湖大道漕盈路218号吾悦广场内5楼",
+        "longitude": 121.102018,
+        "latitude": 31.150574,
+        "gpsAddress": "121.102018:31.150574",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-59808881-101",
+        "telephones": [
+          "021-59808881-101"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5318/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3900,
+        "Distance": 43.332743643996785
+      },
+      {
+        "cinemaId": 6904,
+        "name": "金逸影城MX4D（光美上海青浦满天星店）",
+        "address": "上海市青浦淀山湖大道399弄1号楼4层",
+        "longitude": 121.10146,
+        "latitude": 31.147635,
+        "gpsAddress": "121.10146:31.147635",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-59808081",
+        "telephones": [
+          "021-59808081"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/6904/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3500,
+        "Distance": 43.41696641760428
+      },
+      {
+        "cinemaId": 7746,
+        "name": "上海明星时代影城(朱家角店)",
+        "address": "上海市青浦区朱家角镇课植园路599弄55号楼",
+        "longitude": 121.05596164729548,
+        "latitude": 31.120164068134333,
+        "gpsAddress": "121.05596164729548:31.120164068134333",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310118,
+        "districtName": "青浦区",
+        "district": {
+          "districtId": 310118,
+          "name": "青浦区"
+        },
+        "phone": "021-69766300",
+        "telephones": [
+          "021-69766300"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7746/66b372bc8dc80b571e3b016bc9ed8a4a.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3200,
+        "Distance": 48.6574563653078
+      },
+      {
+        "cinemaId": 7727,
+        "name": "SFC上影国际影城港城店",
+        "address": "浦东新区南汇新城镇茉莉路225弄26号二层",
+        "longitude": 121.912533,
+        "latitude": 30.901993,
+        "gpsAddress": "121.912533:30.901993",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-20969660",
+        "telephones": [
+          "021-20969660"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/7727/4c825a0a7d23df9fed5b85caad9a4bc7.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 4000,
+        "Distance": 51.447471732358984
+      },
+      {
+        "cinemaId": 1657,
+        "name": "上海完美世界影城临港店（原17.5影城）",
+        "address": "海浦东新区南汇新城镇环湖西二路588号幢205-210、250-253",
+        "longitude": 121.9291121173827,
+        "latitude": 30.902512948573694,
+        "gpsAddress": "121.9291121173827:30.902512948573694",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310115,
+        "districtName": "浦东新区",
+        "district": {
+          "districtId": 310115,
+          "name": "浦东新区"
+        },
+        "phone": "021-60755728-8003",
+        "telephones": [
+          "021-60755728-8003"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/1657/dab9381a3293fdd056e413e61a0a9707.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 2900,
+        "Distance": 53.13837109567486
+      },
+      {
+        "cinemaId": 5355,
+        "name": "上海枫泾天娱影城",
+        "address": "上海市金山区枫泾镇新泾路300弄35号",
+        "longitude": 121.0193161336943,
+        "latitude": 30.895175446811738,
+        "gpsAddress": "121.0193161336943:30.895175446811738",
+        "cityId": 310100,
+        "cityName": "上海市",
+        "districtId": 310116,
+        "districtName": "金山区",
+        "district": {
+          "districtId": 310116,
+          "name": "金山区"
+        },
+        "phone": "021-67354200",
+        "telephones": [
+          "021-67354200"
+        ],
+        "logoUrl": "https://pic.maizuo.comusr/5355/c67b06e7eaa12f2d4ca8a79e99441902.jpg",
+        "businessTime": "",
+        "notice": "",
+        "isVisited": 0,
+        "lowPrice": 3300,
+        "Distance": 56.02575129446775
+      }
+    ]
+  },
+  "msg": "ok"
+}
