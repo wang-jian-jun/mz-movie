@@ -63,9 +63,10 @@ var router = new VueRouter({
     },
     // 详情页
     {
-      path: '/detail',
+      path: '/detail/:id',
+      name: 'detail',
       component: detail,
-      props: true
+      // props: true
     },
     {
       path: '*',

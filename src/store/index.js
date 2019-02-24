@@ -92,6 +92,7 @@ let store = new Vuex.Store({
             if (data.status === 0) {
               // this.movelist = res.data.data.films;
               // this.$store.commit('chgmovelist',res.data.data.films)
+              console.log(res.data.data.films)
               commit('chgmovelist',res.data.data.films)
             } else {
               console.log('数据接收失败')

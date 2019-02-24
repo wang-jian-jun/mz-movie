@@ -1,6 +1,9 @@
 <template>
   <div class="zhengzai">
-    <router-link to="" tag="ul" class="mint-item"
+    <!-- 动态路由设置 -->
+    <!-- to="/detail/:item.filmid" -->
+    <!-- <router-link :to="shuju" @click="btn(item.filmId)" tag="ul" class="mint-item" -->
+    <router-link :to="'/detail/'+ item.filmId" tag="ul" class="mint-item" 
       v-for="item in movelist" :key="item.filmId"
     >
         <li><img :src="item.poster" alt=""></li>
@@ -24,7 +27,7 @@ export default {
   data () {
     return {
       // movelist: []
-      
+      shuju:''
     }
   },
   computed: {
@@ -33,6 +36,11 @@ export default {
     }
   },
   methods: {
+    btn(data){
+      console.log(data)
+      var a  = data;
+      this.shuju = '/detail/:'+a
+    }
     // getDate () {
     //   axios.get('./json/move.json')
     //     .then(res => {
