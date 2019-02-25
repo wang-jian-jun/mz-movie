@@ -66,7 +66,7 @@ var router = new VueRouter({
       path: '/detail/:id',
       name: 'detail',
       component: detail,
-      // props: true
+      props: true
     },
     {
       path: '*',

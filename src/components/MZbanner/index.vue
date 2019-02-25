@@ -14,6 +14,8 @@
 
 <script>
 import axios from 'axios'
+// 后面发出去的请求的前面都默认会加上这个
+// axios.defaults.baseURL = 'http://localhost:3000'
 export default {
   /* eslint-disable */
   data () {
@@ -29,6 +31,7 @@ export default {
       .then((res)=>{
           var name = res.data.data;
           _this.imglist = name;
+          console.log(name)
         //   console.log(_this.imglist)
         //   console.log(res.data.data)
         //数据更新后，对轮播图进行更新
