@@ -8,7 +8,7 @@
                 </router-link>
             </li>
             <li><router-link to="/cinemas"><i class="iconfont icon-yingyuan"></i><p>影院</p></router-link></li>
-            <li><router-link to="/pingtuan"><i class="iconfont icon-order-copy"></i><p>9.9平团</p></router-link></li>
+            <li><router-link to="/daili"><i class="iconfont icon-order-copy"></i><p>9.9平团</p></router-link></li>
             <li><router-link to="/center"><i class="iconfont icon-wode"></i><p>我的</p></router-link></li>
             <!-- <li><a href=""><i class="iconfont icon-dianying"></i><p>电影</p></a></li>
             <li><a href=""><i class="iconfont icon-yingyuan"></i><p>影院</p></a></li>

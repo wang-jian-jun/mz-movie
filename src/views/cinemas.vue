@@ -26,54 +26,52 @@
 
 <script>
 import axios from 'axios'
-import {mapState,mapActions} from 'vuex'
+import { mapState, mapActions } from 'vuex'
 export default {
-    data() {
-        return {
-            // moveLocation:[]
-        }
-    },
-    // methods: {
-        // getmoveLocation () {
-        //     axios.get('./json/moveLocation.json')
-        //     .then(res => {
-        //         if(res.status === 200){
-        //             var data = res.data.data.cinemas;
-        //             this.moveLocation = data;
-        //         }
-                
-        //     })
-        // }
-    // },
-    // computed: {
-    //     moveLocation () {
-    //         return this.$store.state.moveLocation
-    //     }
-    // },
-    // computed:Vuex.mapState([
-    //     'moveLocation'
-    // ]),
-    computed: {
-        ...mapState([
-            'moveLocation',
-            'curCityName'
-        ])
-            
-        
-    },
-    methods:{
-        ...mapActions([
-            'getmoveLocation'
-        ])
-    },
-    created () {
-        // this.getmoveLocation()
-        // this.$store.dispatch('getmoveLocation')
-        this.getmoveLocation()
+  data () {
+    return {
+      // moveLocation:[]
     }
+  },
+  // methods: {
+  // getmoveLocation () {
+  //     axios.get('./json/moveLocation.json')
+  //     .then(res => {
+  //         if(res.status === 200){
+  //             var data = res.data.data.cinemas;
+  //             this.moveLocation = data;
+  //         }
+
+  //     })
+  // }
+  // },
+  // computed: {
+  //     moveLocation () {
+  //         return this.$store.state.moveLocation
+  //     }
+  // },
+  // computed:Vuex.mapState([
+  //     'moveLocation'
+  // ]),
+  computed: {
+    ...mapState([
+      'moveLocation',
+      'curCityName'
+    ])
+
+  },
+  methods: {
+    ...mapActions([
+      'getmoveLocation'
+    ])
+  },
+  created () {
+    // this.getmoveLocation()
+    // this.$store.dispatch('getmoveLocation')
+    this.getmoveLocation()
+  }
 }
 </script>
 <style lang="less" scoped>
 @import url('./cinemas/cinemas.less');
 </style>
-

@@ -3,7 +3,7 @@ import App from './App.vue'
 import './styles/reset.less';
 import router from './router.js'
 import store from './store/index.js'
-import  './mockData'
+import './mockData'
 Vue.config.productionTip = false
 
 new Vue({

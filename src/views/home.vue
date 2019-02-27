@@ -1,7 +1,13 @@
 <template>
     <div>
       <div class="home">
-        <router-view></router-view>
+        <transition
+          mode="out-in"
+          enter-active-class="animated slideInup"
+          leave-active-class="animated slideInDown"
+        >
+          <router-view></router-view>
+        </transition>
       </div>
 
       <foo></foo>
@@ -9,11 +15,13 @@
 </template>
 
 <script>
+// import  animated from 'animate-css'
 import foo from '../components/MZfooter/index.vue';
 export default {
   components: {
     foo
   }
+ 
 }
 </script>
 <style lang="less" scoped>

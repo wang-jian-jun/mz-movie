@@ -11,6 +11,7 @@ import card from './views/card.vue'
 import shezhi from './views/shezhi.vue'
 import money from './views/money.vue'
 import zhengzai from './views/zhengzai.vue'
+import daili from './views/daili.vue'
 import jijiang from './views/jijiang.vue'
 // 引入进度条
 import nprogress from 'nprogress'
@@ -24,6 +25,10 @@ var router = new VueRouter({
       path: '/',
       component: home,
       children: [
+        {
+          path: 'daili',
+          component: daili
+        },
         {
           path: 'films',
           component: Films,
